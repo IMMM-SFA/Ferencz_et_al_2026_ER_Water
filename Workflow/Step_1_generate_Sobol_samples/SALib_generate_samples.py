@@ -24,8 +24,8 @@ sp = ProblemSpec({'num_vars': len(parameter_df.Parameter),
 # sample parameter ranges to generate sensitivity analysis scenario ensembles 
 
 column_names = list(parameter_df.Parameter.values)
-sample_base = 2*12+2 # 2*D+2 for second order Sobol inidices
-samples = [4, 8, 16, 32, 64, 128, 256, 512] # list defines ensemble size = n samples * sample_base
+sample_base = 2*12+2 # 2*D+2 for second order Sobol inidices, D = # of parameters
+samples = [4, 8, 16, 32, 64, 128, 256, 512] # sample size of 512 used for 13,312 scenario ensemble, ensemble size = n samples * sample_base
 sample_distributions = pd.DataFrame(data = np.zeros((len(samples), len(column_names))),
                                     columns = column_names, index = samples) # records number unique parameter samples for each ensemble
 
@@ -41,28 +41,5 @@ for i in range(len(samples)):
     
     # Save 
     param_values_df.to_csv("param_values_" + str(samples[i]*(2*12+2)) + "_sobol.csv")
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
