@@ -10,7 +10,7 @@ output_path = "C:/Users/fere556/OneDrive - PNNL/Documents/Artes/Artes_paper/LA_S
 
 #%% Aggregate outputs 
 
-num_scenarios = 13312 # enter # of rows (scenarios) in the paramater multiplier array
+num_scenarios = 13312 # enter # of rows (scenarios) in the drought scenario (parameter multiplier) array created in Step 1
 
 sim_name = 'scenario' # name of ensemble, used as prefix for output file names
 
