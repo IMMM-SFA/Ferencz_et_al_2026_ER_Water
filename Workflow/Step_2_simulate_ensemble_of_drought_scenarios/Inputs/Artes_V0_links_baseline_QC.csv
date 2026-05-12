@@ -1,0 +1,752 @@
+,Origin_Node,End_Node,Root_Node,Type,Type_detailed,Capacity,Consider_deletion,Notes
+0,GWB_MSG,CTY_ALH_INDOOR,CTY_ALH,Groundwater,Groundwater,8812,0,
+1,GWB_MSG,CTY_ALH_OUTDOOR,CTY_ALH,Groundwater,Groundwater,8812,0,
+2,GWB_MSG,CTY_ARC_INDOOR,CTY_ARC,Groundwater,Groundwater,8361,0,
+3,GWB_RAY,CTY_ARC_INDOOR,CTY_ARC,Groundwater,Groundwater,5644,0,
+4,GWB_MSG,CTY_ARC_OUTDOOR,CTY_ARC,Groundwater,Groundwater,8361,0,
+5,GWB_RAY,CTY_ARC_OUTDOOR,CTY_ARC,Groundwater,Groundwater,5644,0,
+6,GWB_MSG,CTY_AZU_INDOOR,CTY_AZU,Groundwater,Groundwater,16487,0,
+7,GWB_MSG,CTY_AZU_OUTDOOR,CTY_AZU,Groundwater,Groundwater,16487,0,
+8,GWB_HOL,CTY_BHL_INDOOR,CTY_BHL,Groundwater,Groundwater,1311,0,
+9,GWB_HOL,CTY_BHL_OUTDOOR,CTY_BHL,Groundwater,Groundwater,1311,0,
+10,GWB_SFE,CTY_BUR_INDOOR,CTY_BUR,Groundwater,Groundwater,12759,0,
+11,GWB_SFE,CTY_BUR_OUTDOOR,CTY_BUR,Groundwater,Groundwater,12759,0,
+12,GWB_CEN,CTY_CER_INDOOR,CTY_CER,Groundwater,Groundwater,4680,0,
+13,GWB_CEN,CTY_CER_OUTDOOR,CTY_CER,Groundwater,Groundwater,4680,0,
+14,GWB_MSG,CTY_COV_INDOOR,CTY_COV,Groundwater,Groundwater,6578,0,
+15,GWB_MSG,CTY_COV_OUTDOOR,CTY_COV,Groundwater,Groundwater,6578,0,
+16,GWB_CEN,CTY_DOW_INDOOR,CTY_DOW,Groundwater,Groundwater,16553,0,
+17,GWB_CEN,CTY_DOW_OUTDOOR,CTY_DOW,Groundwater,Groundwater,16553,0,
+18,GWB_MSG,CTY_ELM_INDOOR,CTY_ELM,Groundwater,Groundwater,2784,0,
+19,GWB_MSG,CTY_ELM_OUTDOOR,CTY_ELM,Groundwater,Groundwater,2784,0,
+20,GWB_SFE,CTY_GDL_INDOOR,CTY_GDL,Groundwater,Groundwater,27086,0,
+21,GWB_VER,CTY_GDL_INDOOR,CTY_GDL,Groundwater,Groundwater,3856,0,
+22,GWB_SFE,CTY_GDL_OUTDOOR,CTY_GDL,Groundwater,Groundwater,27086,0,
+23,GWB_VER,CTY_GDL_OUTDOOR,CTY_GDL,Groundwater,Groundwater,3856,0,
+24,GWB_MSG,CTY_GDR_INDOOR,CTY_GDR,Groundwater,Groundwater,9428,0,
+25,GWB_MSG,CTY_GDR_OUTDOOR,CTY_GDR,Groundwater,Groundwater,9428,0,
+26,GWB_CEN,CTY_HUP_INDOOR,CTY_HUP,Groundwater,Groundwater,3853,0,
+27,GWB_CEN,CTY_HUP_OUTDOOR,CTY_HUP,Groundwater,Groundwater,3853,0,
+28,GWB_WCS,CTY_ING_INDOOR,CTY_ING,Groundwater,Groundwater,4450,0,
+29,GWB_WCS,CTY_ING_OUTDOOR,CTY_ING,Groundwater,Groundwater,4450,0,
+30,GWB_SIX,CTY_LAV_INDOOR,CTY_LAV,Groundwater,Groundwater,1330,0,
+31,GWB_SIX,CTY_LAV_OUTDOOR,CTY_LAV,Groundwater,Groundwater,1330,0,
+32,GWB_CEN,CTY_LAX_INDOOR,CTY_LAX,Groundwater,Groundwater,17236,0,
+33,GWB_CEN,CTY_LAX_OUTDOOR,CTY_LAX,Groundwater,Groundwater,17236,0,
+34,GWB_SFE,CTY_LAX_INDOOR,CTY_LAX,Groundwater,Groundwater,300000,0,far exceeds safe yield of San Fernando Basin
+35,GWB_SFE,CTY_LAX_OUTDOOR,CTY_LAX,Groundwater,Groundwater,300000,0,far exceeds safe yield of San Fernando Basin
+36,GWB_SYL,CTY_LAX_INDOOR,CTY_LAX,Groundwater,Groundwater,12305,0,
+37,GWB_SYL,CTY_LAX_OUTDOOR,CTY_LAX,Groundwater,Groundwater,12305,0,
+38,GWB_CEN,CTY_LBH_INDOOR,CTY_LBH,Groundwater,Groundwater,32692,0,
+39,GWB_CEN,CTY_LBH_OUTDOOR,CTY_LBH,Groundwater,Groundwater,32692,0,
+40,GWB_CEN,CTY_LKW_INDOOR,CTY_LKW,Groundwater,Groundwater,9432,0,
+41,GWB_CEN,CTY_LKW_OUTDOOR,CTY_LKW,Groundwater,Groundwater,9432,0,
+42,GWB_WCS,CTY_LOM_INDOOR,CTY_LOM,Groundwater,Groundwater,1352,0,based on 2020 UWMP
+43,GWB_WCS,CTY_LOM_OUTDOOR,CTY_LOM,Groundwater,Groundwater,1352,0,based on 2020 UWMP
+44,GWB_CEN,CTY_LYN_INDOOR,CTY_LYN,Groundwater,Groundwater,8200,0,
+45,GWB_CEN,CTY_LYN_OUTDOOR,CTY_LYN,Groundwater,Groundwater,8200,0,
+46,GWB_WCS,CTY_MBC_INDOOR,CTY_MBC,Groundwater,Groundwater,1131,0,
+47,GWB_WCS,CTY_MBC_OUTDOOR,CTY_MBC,Groundwater,Groundwater,1131,0,
+48,GWB_MSG,CTY_MON_INDOOR,CTY_MON,Groundwater,Groundwater,7214,0,
+49,GWB_MSG,CTY_MON_OUTDOOR,CTY_MON,Groundwater,Groundwater,7214,0,
+50,GWB_MSG,CTY_MTP_INDOOR,CTY_MTP,Groundwater,Groundwater,9000,0,revised based on 2020 UWMP
+51,GWB_MSG,CTY_MTP_OUTDOOR,CTY_MTP,Groundwater,Groundwater,9000,0,revised based on 2020 UWMP
+52,GWB_CEN,CTY_NOR_INDOOR,CTY_NOR,Groundwater,Groundwater,2273,0,
+53,GWB_CEN,CTY_NOR_OUTDOOR,CTY_NOR,Groundwater,Groundwater,2273,0,
+54,GWB_CEN,CTY_PAR_INDOOR,CTY_PAR,Groundwater,Groundwater,5883,0,
+55,GWB_CEN,CTY_PAR_OUTDOOR,CTY_PAR,Groundwater,Groundwater,5883,0,
+56,GWB_RAY,CTY_PAS_INDOOR,CTY_PAS,Groundwater,Groundwater,12807,0,
+57,GWB_RAY,CTY_PAS_OUTDOOR,CTY_PAS,Groundwater,Groundwater,12807,0,
+58,GWB_CEN,CTY_PCR_INDOOR,CTY_PCR,Groundwater,Groundwater,5579,0,
+59,GWB_CEN,CTY_PCR_OUTDOOR,CTY_PCR,Groundwater,Groundwater,5579,0,
+60,GWB_CHI,CTY_PNM_INDOOR,CTY_PNM,Groundwater,Groundwater,11215,0,
+61,GWB_CHI,CTY_PNM_OUTDOOR,CTY_PNM,Groundwater,Groundwater,11215,0,
+62,GWB_SPA,CTY_PNM_INDOOR,CTY_PNM,Groundwater,Groundwater,250,0,
+63,GWB_SPA,CTY_PNM_OUTDOOR,CTY_PNM,Groundwater,Groundwater,250,0,
+64,GWB_SIX,CTY_PNM_INDOOR,CTY_PNM,Groundwater,Groundwater,3639,0,
+65,GWB_SIX,CTY_PNM_OUTDOOR,CTY_PNM,Groundwater,Groundwater,3639,0,
+66,GWB_SYL,CTY_SFE_INDOOR,CTY_SFE,Groundwater,Groundwater,4209,0,
+67,GWB_SYL,CTY_SFE_OUTDOOR,CTY_SFE,Groundwater,Groundwater,4209,0,
+68,GWB_CEN,CTY_SFS_INDOOR,CTY_SFS,Groundwater,Groundwater,4035,0,
+69,GWB_CEN,CTY_SFS_OUTDOOR,CTY_SFS,Groundwater,Groundwater,4035,0,
+70,GWB_CEN,CTY_SGT_INDOOR,CTY_SGT,Groundwater,Groundwater,11183,0,
+71,GWB_CEN,CTY_SGT_OUTDOOR,CTY_SGT,Groundwater,Groundwater,11183,0,
+72,GWB_RAY,CTY_SIE_INDOOR,CTY_SIE,Groundwater,Groundwater,1764,0,
+73,GWB_RAY,CTY_SIE_OUTDOOR,CTY_SIE,Groundwater,Groundwater,1764,0,
+74,GWB_CEN,CTY_SIG_INDOOR,CTY_SIG,Groundwater,Groundwater,2022,0,
+75,GWB_CEN,CTY_SIG_OUTDOOR,CTY_SIG,Groundwater,Groundwater,2022,0,
+76,GWB_SMC,CTY_SMC_INDOOR,CTY_SMC,Groundwater,Groundwater,12400,0,
+77,GWB_SMC,CTY_SMC_OUTDOOR,CTY_SMC,Groundwater,Groundwater,12400,0,
+78,GWB_MSG,CTY_SPA_INDOOR,CTY_SPA,Groundwater,Groundwater,3567,0,
+79,GWB_MSG,CTY_SPA_OUTDOOR,CTY_SPA,Groundwater,Groundwater,3567,0,
+80,GWB_WCS,CTY_TOR_INDOOR,CTY_TOR,Groundwater,Groundwater,5639,0,
+81,GWB_WCS,CTY_TOR_OUTDOOR,CTY_TOR,Groundwater,Groundwater,5639,0,
+82,GWB_CEN,CTY_VER_INDOOR,CTY_VER,Groundwater,Groundwater,7539,0,
+83,GWB_CEN,CTY_VER_OUTDOOR,CTY_VER,Groundwater,Groundwater,7539,0,
+84,GWB_CEN,CTY_WHT_INDOOR,CTY_WHT,Groundwater,Groundwater,5000,0,
+85,GWB_CEN,CTY_WHT_OUTDOOR,CTY_WHT,Groundwater,Groundwater,5000,0,
+86,GWB_MSG,CTY_WHT_INDOOR,CTY_WHT,Groundwater,Groundwater,8721,0,
+87,GWB_MSG,CTY_WHT_OUTDOOR,CTY_WHT,Groundwater,Groundwater,8721,0,
+88,GWB_VER,CWD_CRE_INDOOR,CWD_CRE,Groundwater,Groundwater,3294,0,
+89,GWB_VER,CWD_CRE_OUTDOOR,CWD_CRE,Groundwater,Groundwater,3294,0,
+90,GWB_CEN,CWD_ORC_INDOOR,CWD_ORC,Groundwater,Groundwater,2000,0,updated based on 2020 UWMP
+91,GWB_CEN,CWD_ORC_OUTDOOR,CWD_ORC,Groundwater,Groundwater,2000,0,updated based on 2020 UWMP
+92,GWB_PUE,CWD_ROW_INDOOR,CWD_ROW,Groundwater,Groundwater,306,0,
+93,GWB_PUE,CWD_ROW_OUTDOOR,CWD_ROW,Groundwater,Groundwater,306,0,
+94,GWB_MSG,CWD_SGB_INDOOR,CWD_SGB,Groundwater,Groundwater,5395,0,
+95,GWB_MSG,CWD_SGB_OUTDOOR,CWD_SGB,Groundwater,Groundwater,5395,0,
+96,GWB_MSG,CWD_VAL_INDOOR,CWD_VAL,Groundwater,Groundwater,6800,0,
+97,GWB_MSG,CWD_VAL_OUTDOOR,CWD_VAL,Groundwater,Groundwater,6800,0,
+98,GWB_PUE,CWD_WVA_INDOOR,CWD_WVA,Groundwater,Groundwater,306,0,
+99,GWB_PUE,CWD_WVA_OUTDOOR,CWD_WVA,Groundwater,Groundwater,306,0,
+100,GWB_SPA,CWD_WVA_INDOOR,CWD_WVA,Groundwater,Groundwater,600,0,
+101,GWB_SPA,CWD_WVA_OUTDOOR,CWD_WVA,Groundwater,Groundwater,600,0,
+102,GWB_CEN,IOU_CWS_DOM_INDOOR,IOU_CWS_DOM,Groundwater,Groundwater,7000,0,
+103,GWB_CEN,IOU_CWS_DOM_OUTDOOR,IOU_CWS_DOM,Groundwater,Groundwater,7000,0,
+104,GWB_WCS,IOU_CWS_DOM_INDOOR,IOU_CWS_DOM,Groundwater,Groundwater,11000,0,
+105,GWB_WCS,IOU_CWS_DOM_OUTDOOR,IOU_CWS_DOM,Groundwater,Groundwater,11000,0,
+106,GWB_CEN,IOU_CWS_ELA_INDOOR,IOU_CWS_ELA,Groundwater,Groundwater,11774,0,updated based on 2020 UWMP
+107,GWB_CEN,IOU_CWS_ELA_OUTDOOR,IOU_CWS_ELA,Groundwater,Groundwater,11774,0,updated based on 2020 UWMP
+108,GWB_WCS,IOU_CWS_HAW_INDOOR,IOU_CWS_HAW,Groundwater,Groundwater,2000,0,
+109,GWB_WCS,IOU_CWS_HAW_OUTDOOR,IOU_CWS_HAW,Groundwater,Groundwater,2000,0,
+110,GWB_WCS,IOU_CWS_HR_INDOOR,IOU_CWS_HR,Groundwater,Groundwater,4070,0,updated to adjudicated amount
+111,GWB_WCS,IOU_CWS_HR_OUTDOOR,IOU_CWS_HR,Groundwater,Groundwater,4070,0,updated to adjudicated amount
+112,GWB_WCS,IOU_CWS_PV_INDOOR,IOU_CWS_PV,Groundwater,Groundwater,0,0,
+113,GWB_WCS,IOU_CWS_PV_OUTDOOR,IOU_CWS_PV,Groundwater,Groundwater,0,0,
+114,GWB_CEN,IOU_GS_ART_INDOOR,IOU_GS_ART,Groundwater,Groundwater,5000,0,
+115,GWB_CEN,IOU_GS_ART_OUTDOOR,IOU_GS_ART,Groundwater,Groundwater,5000,0,
+116,GWB_CEN,IOU_GS_BBG_INDOOR,IOU_GS_BBG,Groundwater,Groundwater,4500,0,
+117,GWB_CEN,IOU_GS_BBG_OUTDOOR,IOU_GS_BBG,Groundwater,Groundwater,4500,0,
+118,GWB_CHI,IOU_GS_CLA_INDOOR,IOU_GS_CLA,Groundwater,Groundwater,1300,0,
+119,GWB_CHI,IOU_GS_CLA_OUTDOOR,IOU_GS_CLA,Groundwater,Groundwater,1300,0,
+120,GWB_SIX,IOU_GS_CLA_INDOOR,IOU_GS_CLA,Groundwater,Groundwater,6500,0,
+121,GWB_SIX,IOU_GS_CLA_OUTDOOR,IOU_GS_CLA,Groundwater,Groundwater,6500,0,
+122,GWB_SMC,IOU_GS_CC_INDOOR,IOU_GS_CC,Groundwater,Groundwater,500,0,
+123,GWB_SMC,IOU_GS_CC_OUTDOOR,IOU_GS_CC,Groundwater,Groundwater,500,0,
+124,GWB_CEN,IOU_GS_FG_INDOOR,IOU_GS_FG,Groundwater,Groundwater,5000,0,
+125,GWB_CEN,IOU_GS_FG_OUTDOOR,IOU_GS_FG,Groundwater,Groundwater,5000,0,
+126,GWB_CEN,IOU_GS_NOR_INDOOR,IOU_GS_NOR,Groundwater,Groundwater,5000,0,
+127,GWB_CEN,IOU_GS_NOR_OUTDOOR,IOU_GS_NOR,Groundwater,Groundwater,5000,0,
+128,GWB_MSG,IOU_GS_SAR_INDOOR,IOU_GS_SAR,Groundwater,Groundwater,4000,0,
+129,GWB_MSG,IOU_GS_SAR_OUTDOOR,IOU_GS_SAR,Groundwater,Groundwater,4000,0,
+130,GWB_MSG,IOU_GS_SSG_INDOOR,IOU_GS_SSG,Groundwater,Groundwater,4500,0,
+131,GWB_MSG,IOU_GS_SSG_OUTDOOR,IOU_GS_SSG,Groundwater,Groundwater,4500,0,
+132,GWB_MSG,IOU_GS_SD_INDOOR,IOU_GS_SD,Groundwater,Groundwater,6000,0,
+133,GWB_MSG,IOU_GS_SD_OUTDOOR,IOU_GS_SD,Groundwater,Groundwater,6000,0,
+134,GWB_CEN,IOU_GS_SW_INDOOR,IOU_GS_SW,Groundwater,Groundwater,5000,0,
+135,GWB_CEN,IOU_GS_SW_OUTDOOR,IOU_GS_SW,Groundwater,Groundwater,5000,0,
+136,GWB_WCS,IOU_GS_SW_INDOOR,IOU_GS_SW,Groundwater,Groundwater,7500,0,
+137,GWB_WCS,IOU_GS_SW_OUTDOOR,IOU_GS_SW,Groundwater,Groundwater,7500,0,
+138,GWB_CEN,IOU_SGV_INDOOR,IOU_SGV,Groundwater,Groundwater,2565,0,
+139,GWB_CEN,IOU_SGV_OUTDOOR,IOU_SGV,Groundwater,Groundwater,2565,0,
+140,GWB_MSG,IOU_SGV_INDOOR,IOU_SGV,Groundwater,Groundwater,39000,0,based on GW use during 2013 
+141,GWB_MSG,IOU_SGV_OUTDOOR,IOU_SGV,Groundwater,Groundwater,39000,0,based on GW use during 2013 
+142,GWB_MSG,IOU_SWS_SJH_INDOOR,IOU_SWS_SJH,Groundwater,Groundwater,20000,0,
+143,GWB_MSG,IOU_SWS_SJH_OUTDOOR,IOU_SWS_SJH,Groundwater,Groundwater,20000,0,
+144,GWB_CEN,IOU_SWS_WLM_INDOOR,IOU_SWS_WLM,Groundwater,Groundwater,3500,0,updated based on 2020 UWMP
+145,GWB_CEN,IOU_SWS_WLM_OUTDOOR,IOU_SWS_WLM,Groundwater,Groundwater,3500,0,updated based on 2020 UWMP
+146,GWB_MSG,IOU_SWS_WLM_INDOOR,IOU_SWS_WLM,Groundwater,Groundwater,14000,0,
+147,GWB_MSG,IOU_SWS_WLM_OUTDOOR,IOU_SWS_WLM,Groundwater,Groundwater,14000,0,
+148,GWB_RAY,IRR_KIN_INDOOR,IRR_KIN,Groundwater,Groundwater,520,0,missing monthly use data
+149,GWB_RAY,IRR_KIN_OUTDOOR,IRR_KIN,Groundwater,Groundwater,520,0,missing monthly use data
+150,GWB_RAY,IRR_LAC_INDOOR,IRR_LAC,Groundwater,Groundwater,100,0,missing monthly use data
+151,GWB_RAY,IRR_LAC_OUTDOOR,IRR_LAC,Groundwater,Groundwater,100,0,missing monthly use data
+152,GWB_CEN,IRR_SMT_INDOOR,IRR_SMT,Groundwater,Groundwater,1270,0,missing monthly use data
+153,GWB_CEN,IRR_SMT_OUTDOOR,IRR_SMT,Groundwater,Groundwater,1270,0,missing monthly use data
+154,GWB_CEN,MWC_BLS_INDOOR,MWC_BLS,Groundwater,Groundwater,5000,0,
+155,GWB_CEN,MWC_BLS_OUTDOOR,MWC_BLS,Groundwater,Groundwater,5000,0,
+156,GWB_MSG,MWC_CDM_INDOOR,MWC_CDM,Groundwater,Groundwater,12069,0,missing monthly use data
+157,GWB_MSG,MWC_CDM_OUTDOOR,MWC_CDM,Groundwater,Groundwater,12069,0,missing monthly use data
+158,GWB_MSG,MWC_COV_INDOOR,MWC_COV,Groundwater,Groundwater,6578,0,missing monthly use data
+159,GWB_MSG,MWC_COV_OUTDOOR,MWC_COV,Groundwater,Groundwater,6578,0,missing monthly use data
+160,GWB_RAY,MWC_LAV_INDOOR,MWC_LAV,Groundwater,Groundwater,2069,0,missing monthly use data
+161,GWB_RAY,MWC_LAV_OUTDOOR,MWC_LAV,Groundwater,Groundwater,2069,0,missing monthly use data
+162,GWB_CEN,MWC_MA1_INDOOR,MWC_MA1,Groundwater,Groundwater,741,0,missing monthly use data
+163,GWB_CEN,MWC_MA1_OUTDOOR,MWC_MA1,Groundwater,Groundwater,741,0,missing monthly use data
+164,GWB_CEN,MWC_MON_INDOOR,MWC_MON,Groundwater,Groundwater,4000,0,updated based on 2020 UWMP
+165,GWB_CEN,MWC_MON_OUTDOOR,MWC_MON,Groundwater,Groundwater,4000,0,updated based on 2020 UWMP
+166,GWB_RAY,MWC_RUB_INDOOR,MWC_RUB,Groundwater,Groundwater,2000,0,
+167,GWB_RAY,MWC_RUB_OUTDOOR,MWC_RUB,Groundwater,Groundwater,2000,0,
+168,GWB_RAY,MWC_SSL_INDOOR,MWC_SSL,Groundwater,Groundwater,1600,0,updated based on 2020 UWMP
+169,GWB_RAY,MWC_SSL_OUTDOOR,MWC_SSL,Groundwater,Groundwater,1600,0,updated based on 2020 UWMP
+170,GWB_CEN,CTY_BEL_INDOOR,CTY_BEL,Groundwater,Groundwater,1380,0,
+171,GWB_CEN,CTY_BEL_OUTDOOR,CTY_BEL,Groundwater,Groundwater,1380,0,
+172,GWB_MSG,CTY_IND_INDOOR,CTY_IND,Groundwater,Groundwater,1300,0,revised to meet baseline demand
+173,GWB_MSG,CTY_IND_OUTDOOR,CTY_IND,Groundwater,Groundwater,1300,0,revised to meet baseline demand
+174,GWB_PUE,CTY_IND_INDOOR,CTY_IND,Groundwater,Groundwater,500,0,revised to meet baseline demand
+175,GWB_PUE,CTY_IND_OUTDOOR,CTY_IND,Groundwater,Groundwater,500,0,revised to meet baseline demand
+176,GWB_CEN,CWD_LAH_INDOOR,CWD_LAH,Groundwater,Groundwater,2596,0,
+177,GWB_CEN,CWD_LAH_OUTDOOR,CWD_LAH,Groundwater,Groundwater,2596,0,
+178,GWB_MSG,CWD_LAP_INDOOR,CWD_LAP,Groundwater,Groundwater,1130,0,
+179,GWB_MSG,CWD_LAP_OUTDOOR,CWD_LAP,Groundwater,Groundwater,1130,0,
+180,GWB_CEN,CWD_PIC_INDOOR,CWD_PIC,Groundwater,Groundwater,3624,0,
+181,GWB_CEN,CWD_PIC_OUTDOOR,CWD_PIC,Groundwater,Groundwater,3624,0,
+182,GWB_CEN,CTY_CPT_INDOOR,CTY_CPT,Groundwater,Groundwater,7400,0,
+183,GWB_CEN,CTY_CPT_OUTDOOR,CTY_CPT,Groundwater,Groundwater,7400,0,
+184,GWB_CEN,CWD_SAV_INDOOR,CWD_SAV,Groundwater,Groundwater,830,0,increased to meet baseline demand
+185,GWB_CEN,CWD_SAV_OUTDOOR,CWD_SAV,Groundwater,Groundwater,830,0,increased to meet baseline demand
+186,GWB_CEN,PRV_CEN_INDOOR,PRV_CEN,Groundwater,Groundwater,3987,0,
+187,GWB_CEN,PRV_CEN_OUTDOOR,PRV_CEN,Groundwater,Groundwater,3987,0,
+188,GWB_CEN,PRV_COC_INDOOR,PRV_COC,Groundwater,Groundwater,306,0,
+189,GWB_MSG,PRV_MOC_INDOOR,PRV_MOC,Groundwater,Groundwater,313,0,
+190,GWB_MSG,PRV_MSG_INDOOR,PRV_MSG,Groundwater,Groundwater,22906,0,
+191,GWB_MSG,PRV_MSG_OUTDOOR,PRV_MSG,Groundwater,Groundwater,22906,0,
+192,GWB_RAY,PRV_RAY_INDOOR,PRV_RAY,Groundwater,Groundwater,463,0,link capacity not enough to meet 558 acft of demand
+193,GWB_RAY,PRV_RAY_OUTDOOR,PRV_RAY,Groundwater,Groundwater,463,0,
+194,GWB_WCS,PRV_WCS_INDOOR,PRV_WCS,Groundwater,Groundwater,5500,0,updated to meet baseline demand
+195,GWB_WCS,PRV_WCS_OUTDOOR,PRV_WCS,Groundwater,Groundwater,5500,0,updated to meet baseline demand
+196,GWB_WCS,PRV_WOC_INDOOR,PRV_WOC,Groundwater,Groundwater,19697,0,
+197,GWB_CEN,IOU_CAW_BH_INDOOR,IOU_CAW_BH,Groundwater,Groundwater,2400,0,
+198,GWB_CEN,IOU_CAW_BH_OUTDOOR,IOU_CAW_BH,Groundwater,Groundwater,2400,0,
+199,GWB_MSG,IOU_CAW_SM_INDOOR,IOU_CAW_SM,Groundwater,Groundwater,7300,0,
+200,GWB_MSG,IOU_CAW_SM_OUTDOOR,IOU_CAW_SM,Groundwater,Groundwater,7300,0,
+201,GWB_RAY,IOU_CAW_SM_INDOOR,IOU_CAW_SM,Groundwater,Groundwater,2300,0,
+202,GWB_RAY,IOU_CAW_SM_OUTDOOR,IOU_CAW_SM,Groundwater,Groundwater,2300,0,
+203,GWB_MSG,IOU_CAW_DUR_INDOOR,IOU_CAW_DUR,Groundwater,Groundwater,6300,0,
+204,GWB_MSG,IOU_CAW_DUR_OUTDOOR,IOU_CAW_DUR,Groundwater,Groundwater,6300,0,
+205,GWB_CEN,MWD_CBS,MWD_CBS,Groundwater,Groundwater,174000,0,
+206,GWB_WCS,MWD_WCB,MWD_WCB,Groundwater,Groundwater,6600,0,
+207,MWD_USG,CTY_ALH_INDOOR,CTY_ALH,Imported,Imported,3000,0,
+208,MWD_USG,CTY_ALH_OUTDOOR,CTY_ALH,Imported,Imported,3000,0,
+209,MWD_MET,CTY_BHL_INDOOR,CTY_BHL,Imported,Imported,13380,0,
+210,MWD_MET,CTY_BHL_OUTDOOR,CTY_BHL,Imported,Imported,13380,0,
+211,MWD_MET,CTY_BUR_INDOOR,CTY_BUR,Imported,Imported,16336,0,
+212,MWD_MET,CTY_BUR_OUTDOOR,CTY_BUR,Imported,Imported,16336,0,
+213,MWD_CBS,CTY_CER_INDOOR,CTY_CER,Imported,Imported,1150,0,
+214,MWD_CBS,CTY_CER_OUTDOOR,CTY_CER,Imported,Imported,1150,0,
+215,MWD_THV,CTY_COV_INDOOR,CTY_COV,Imported,Imported,3000,0,revised 
+216,MWD_THV,CTY_COV_OUTDOOR,CTY_COV,Imported,Imported,3000,0,revised 
+217,MWD_CBS,CTY_DOW_INDOOR,CTY_DOW,Imported,Imported,10000,0,
+218,MWD_CBS,CTY_DOW_OUTDOOR,CTY_DOW,Imported,Imported,10000,0,
+219,MWD_WCB,CTY_ELS_INDOOR,CTY_ELS,Imported,Imported,9929,0,
+220,MWD_WCB,CTY_ELS_OUTDOOR,CTY_ELS,Imported,Imported,9929,0,
+221,MWD_MET,CTY_GDL_INDOOR,CTY_GDL,Imported,Imported,26221,0,
+222,MWD_MET,CTY_GDL_OUTDOOR,CTY_GDL,Imported,Imported,26221,0,
+223,MWD_THV,CTY_GDR_INDOOR,CTY_GDR,Imported,Imported,2275,0,
+224,MWD_THV,CTY_GDR_OUTDOOR,CTY_GDR,Imported,Imported,2275,0,
+225,MWD_CBS,CTY_HUP_INDOOR,CTY_HUP,Imported,Imported,1800,0,
+226,MWD_CBS,CTY_HUP_OUTDOOR,CTY_HUP,Imported,Imported,1800,0,
+227,MWD_WCB,CTY_ING_INDOOR,CTY_ING,Imported,Imported,8425,0,SBF added link based on 2015 UWMP 
+228,MWD_WCB,CTY_ING_OUTDOOR,CTY_ING,Imported,Imported,8425,0,SBF added link based on 2015 UWMP 
+229,MWD_THV,CTY_LAV_INDOOR,CTY_LAV,Imported,Imported,7029,0,
+230,MWD_THV,CTY_LAV_OUTDOOR,CTY_LAV,Imported,Imported,7029,0,
+231,MWD_MET,CTY_LAX_INDOOR,CTY_LAX,Imported,Imported,373000,0,
+232,MWD_MET,CTY_LAX_OUTDOOR,CTY_LAX,Imported,Imported,373000,0,
+233,INF_SWP,CTY_LAX_INDOOR,CTY_LAX,Imported,Imported,40000,0,
+234,INF_SWP,CTY_LAX_OUTDOOR,CTY_LAX,Imported,Imported,40000,0,
+235,MWD_MET,CTY_LBH_INDOOR,CTY_LBH,Imported,Imported,39471,0,
+236,MWD_MET,CTY_LBH_OUTDOOR,CTY_LBH,Imported,Imported,39471,0,
+237,MWD_CBS,CTY_LYN_INDOOR,CTY_LYN,Imported,Imported,9100,0,
+238,MWD_CBS,CTY_LYN_OUTDOOR,CTY_LYN,Imported,Imported,9100,0,
+239,MWD_WCB,CTY_MBC_INDOOR,CTY_MBC,Imported,Imported,5670,0,
+240,MWD_WCB,CTY_MBC_OUTDOOR,CTY_MBC,Imported,Imported,5670,0,
+241,MWD_CBS,CTY_NOR_INDOOR,CTY_NOR,Imported,Imported,1700,0,
+242,MWD_CBS,CTY_NOR_OUTDOOR,CTY_NOR,Imported,Imported,1700,0,
+243,MWD_CBS,CTY_PAR_INDOOR,CTY_PAR,Imported,Imported,3500,0,
+244,MWD_CBS,CTY_PAR_OUTDOOR,CTY_PAR,Imported,Imported,3500,0,
+245,MWD_MET,CTY_PAS_INDOOR,CTY_PAS,Imported,Imported,21180,0,
+246,MWD_MET,CTY_PAS_OUTDOOR,CTY_PAS,Imported,Imported,21180,0,
+247,MWD_THV,CTY_PNM_INDOOR,CTY_PNM,Imported,Imported,7000,0,
+248,MWD_THV,CTY_PNM_OUTDOOR,CTY_PNM,Imported,Imported,7000,0,
+249,MWD_MET,CTY_SFE_INDOOR,CTY_SFE,Imported,Imported,630,0,
+250,MWD_MET,CTY_SFE_OUTDOOR,CTY_SFE,Imported,Imported,630,0,
+251,MWD_MET,CTY_SFS_INDOOR,CTY_SFS,Imported,Imported,1000,0,
+252,MWD_MET,CTY_SFS_OUTDOOR,CTY_SFS,Imported,Imported,1000,0,
+253,MWD_CBS,CTY_SFS_INDOOR,CTY_SFS,Imported,Imported,4300,0,
+254,MWD_CBS,CTY_SFS_OUTDOOR,CTY_SFS,Imported,Imported,4300,0,
+255,MWD_CBS,CTY_SIG_INDOOR,CTY_SIG,Imported,Imported,2000,0,updated based on 2000 acft of imports in 2007
+256,MWD_CBS,CTY_SIG_OUTDOOR,CTY_SIG,Imported,Imported,2000,0,updated based on 2000 acft of imports in 2007
+257,MWD_MET,CTY_SMC_INDOOR,CTY_SMC,Imported,Imported,11515,0,
+258,MWD_MET,CTY_SMC_OUTDOOR,CTY_SMC,Imported,Imported,11515,0,
+259,MWD_MET,CTY_TOR_INDOOR,CTY_TOR,Imported,Imported,19204,0,
+260,MWD_MET,CTY_TOR_OUTDOOR,CTY_TOR,Imported,Imported,19204,0,
+261,MWD_CBS,CTY_VER_INDOOR,CTY_VER,Imported,Imported,2100,0,
+262,MWD_CBS,CTY_VER_OUTDOOR,CTY_VER,Imported,Imported,2100,0,
+263,MWD_FTH,CWD_CRE_INDOOR,CWD_CRE,Imported,Imported,2532,0,
+264,MWD_FTH,CWD_CRE_OUTDOOR,CWD_CRE,Imported,Imported,2532,0,
+265,MWD_WCB,CWD_LA2_INDOOR,CWD_LA2,Imported,Imported,13266,0,
+266,MWD_WCB,CWD_LA2_OUTDOOR,CWD_LA2,Imported,Imported,13266,0,
+267,MWD_CBS,CWD_ORC_INDOOR,CWD_ORC,Imported,Imported,100,0,
+268,MWD_CBS,CWD_ORC_OUTDOOR,CWD_ORC,Imported,Imported,100,0,
+269,MWD_THV,CWD_ROW_INDOOR,CWD_ROW,Imported,Imported,14741,0,updated based on 2020 UWMP
+270,MWD_THV,CWD_ROW_OUTDOOR,CWD_ROW,Imported,Imported,14741,0,updated based on 2020 UWMP
+271,MWD_USG,CWD_VAL_INDOOR,CWD_VAL,Imported,Imported,3000,0,"increased based on 2020 UWMP, has a large connection to MWD_USGS (~20,000 acft/year)"
+272,MWD_USG,CWD_VAL_OUTDOOR,CWD_VAL,Imported,Imported,3000,0,"increased based on 2020 UWMP, has a large connection to MWD_USGS (~20,000 acft/year)"
+273,MWD_THV,CWD_WVA_INDOOR,CWD_WVA,Imported,Imported,26057,0,updated based on Tier 1 allocation in 2020 UWMP
+274,MWD_THV,CWD_WVA_OUTDOOR,CWD_WVA,Imported,Imported,26057,0,updated based on Tier 1 allocation in 2020 UWMP
+275,MWD_MET,INF_CSB,,Imported,Imported,15274,0,no topology update needed
+276,MWD_WCB,IOU_CWS_DOM_INDOOR,IOU_CWS_DOM,Imported,Imported,28000,0,
+277,MWD_WCB,IOU_CWS_DOM_OUTDOOR,IOU_CWS_DOM,Imported,Imported,28000,0,
+278,MWD_CBS,IOU_CWS_ELA_INDOOR,IOU_CWS_ELA,Imported,Imported,10000,0,updated based on 2020 UWMP
+279,MWD_CBS,IOU_CWS_ELA_OUTDOOR,IOU_CWS_ELA,Imported,Imported,10000,0,updated based on 2020 UWMP
+280,MWD_WCB,IOU_CWS_HAW_INDOOR,IOU_CWS_HAW,Imported,Imported,4000,0,
+281,MWD_WCB,IOU_CWS_HAW_OUTDOOR,IOU_CWS_HAW,Imported,Imported,4000,0,
+282,MWD_WCB,IOU_CWS_HR_INDOOR,IOU_CWS_HR,Imported,Imported,12000,0,
+283,MWD_WCB,IOU_CWS_HR_OUTDOOR,IOU_CWS_HR,Imported,Imported,12000,0,
+284,MWD_WCB,IOU_CWS_PV_INDOOR,IOU_CWS_PV,Imported,Imported,20000,0,
+285,MWD_WCB,IOU_CWS_PV_OUTDOOR,IOU_CWS_PV,Imported,Imported,20000,0,
+286,MWD_CBS,IOU_GS_ART_INDOOR,IOU_GS_ART,Imported,Imported,1000,0,
+287,MWD_CBS,IOU_GS_ART_OUTDOOR,IOU_GS_ART,Imported,Imported,1000,0,
+288,MWD_CBS,IOU_GS_BBG_INDOOR,IOU_GS_BBG,Imported,Imported,500,0,
+289,MWD_CBS,IOU_GS_BBG_OUTDOOR,IOU_GS_BBG,Imported,Imported,500,0,
+290,MWD_THV,IOU_GS_CLA_INDOOR,IOU_GS_CLA,Imported,Imported,6500,0,
+291,MWD_THV,IOU_GS_CLA_OUTDOOR,IOU_GS_CLA,Imported,Imported,6500,0,
+292,MWD_WCB,IOU_GS_CC_INDOOR,IOU_GS_CC,Imported,Imported,10000,0,
+293,MWD_WCB,IOU_GS_CC_OUTDOOR,IOU_GS_CC,Imported,Imported,10000,0,
+294,MWD_CBS,IOU_GS_FG_INDOOR,IOU_GS_FG,Imported,Imported,1000,0,
+295,MWD_CBS,IOU_GS_FG_OUTDOOR,IOU_GS_FG,Imported,Imported,1000,0,
+296,MWD_CBS,IOU_GS_NOR_INDOOR,IOU_GS_NOR,Imported,Imported,2500,0,
+297,MWD_CBS,IOU_GS_NOR_OUTDOOR,IOU_GS_NOR,Imported,Imported,2500,0,
+298,MWD_USG,IOU_GS_SSG_INDOOR,IOU_GS_SSG,Imported,Imported,3000,0,
+299,MWD_USG,IOU_GS_SSG_OUTDOOR,IOU_GS_SSG,Imported,Imported,3000,0,
+300,MWD_THV,IOU_GS_SD_INDOOR,IOU_GS_SD,Imported,Imported,10000,0,
+301,MWD_THV,IOU_GS_SD_OUTDOOR,IOU_GS_SD,Imported,Imported,10000,0,
+302,MWD_CBS,IOU_GS_SW_INDOOR,IOU_GS_SW,Imported,Imported,2100,0,
+303,MWD_CBS,IOU_GS_SW_OUTDOOR,IOU_GS_SW,Imported,Imported,2100,0,
+304,MWD_WCB,IOU_GS_SW_INDOOR,IOU_GS_SW,Imported,Imported,26000,0,
+305,MWD_WCB,IOU_GS_SW_OUTDOOR,IOU_GS_SW,Imported,Imported,26000,0,
+306,MWD_CBS,IOU_PWC_INDOOR,IOU_PWC,Imported,Imported,12800,0,
+307,MWD_CBS,IOU_PWC_OUTDOOR,IOU_PWC,Imported,Imported,12800,0,
+308,MWD_MET,IOU_SGV_INDOOR,IOU_SGV,Imported,Imported,10000,0,"increased to meet baseline demand, also MWD connection via CEN MWD"
+309,MWD_MET,IOU_SGV_OUTDOOR,IOU_SGV,Imported,Imported,10000,0,"increased to meet baseline demand, also MWD connection via CEN MWD"
+310,MWD_USG,IOU_SWS_SJH_INDOOR,IOU_SWS_SJH,Imported,Imported,7800,0,
+311,MWD_USG,IOU_SWS_SJH_OUTDOOR,IOU_SWS_SJH,Imported,Imported,7800,0,
+312,MWD_THV,IOU_SWS_SJH_INDOOR,IOU_SWS_SJH,Imported,Imported,4500,0,
+313,MWD_THV,IOU_SWS_SJH_OUTDOOR,IOU_SWS_SJH,Imported,Imported,4500,0,
+314,MWD_CBS,IOU_SWS_WLM_INDOOR,IOU_SWS_WLM,Imported,Imported,8000,0,updated based on 2020 UWMP
+315,MWD_CBS,IOU_SWS_WLM_OUTDOOR,IOU_SWS_WLM,Imported,Imported,8000,0,updated based on 2020 UWMP
+316,MWD_FTH,IRR_LAC_INDOOR,IRR_LAC,Imported,Imported,3163,0,missing monthly use data
+317,MWD_FTH,IRR_LAC_OUTDOOR,IRR_LAC,Imported,Imported,3163,0,missing monthly use data
+318,MWD_CBS,MWC_BLS_INDOOR,MWC_BLS,Imported,Imported,2350,0,
+319,MWD_CBS,MWC_BLS_OUTDOOR,MWC_BLS,Imported,Imported,2350,0,
+320,MWD_FTH,MWC_LAV_INDOOR,MWC_LAV,Imported,Imported,2208,0,missing monthly use data
+321,MWD_FTH,MWC_LAV_OUTDOOR,MWC_LAV,Imported,Imported,2208,0,missing monthly use data
+322,MWD_FTH,MWC_LFL_INDOOR,MWC_LFL,Imported,Imported,780,0,missing monthly use data
+323,MWD_FTH,MWC_LFL_OUTDOOR,MWC_LFL,Imported,Imported,780,0,missing monthly use data
+324,MWD_FTH,MWC_MCR_INDOOR,MWC_MCR,Imported,Imported,808,0,missing monthly use data
+325,MWD_FTH,MWC_MCR_OUTDOOR,MWC_MCR,Imported,Imported,808,0,missing monthly use data
+326,MWD_FTH,MWC_RUB_INDOOR,MWC_RUB,Imported,Imported,730,0,
+327,MWD_FTH,MWC_RUB_OUTDOOR,MWC_RUB,Imported,Imported,730,0,
+328,MWD_FTH,MWC_VWC_INDOOR,MWC_VWC,Imported,Imported,3300,0,updated based on 2020 UWMP
+329,MWD_FTH,MWC_VWC_OUTDOOR,MWC_VWC,Imported,Imported,3300,0,updated based on 2020 UWMP
+330,MWD_MET,MWD_LVI_INDOOR,MWD_LVI,Imported,Imported,21087,0,link capacity is less than 25958 acft Artes demand
+331,MWD_MET,MWD_LVI_OUTDOOR,MWD_LVI,Imported,Imported,21087,0,
+332,MWD_CBS,CWD_LAH_INDOOR,CWD_LAH,Imported,Imported,260,0,
+333,MWD_CBS,CWD_LAH_OUTDOOR,CWD_LAH,Imported,Imported,260,0,
+334,MWD_MET,CTY_CPT_INDOOR,CTY_CPT,Imported,Imported,5058,0,
+335,MWD_MET,CTY_CPT_OUTDOOR,CTY_CPT,Imported,Imported,5058,0,
+336,MWD_THV,SPG_LIT,SPG_LIT,Imported,Imported,14280,0,
+337,MWD_SGV,SPG_LOS,SPG_LOS,Imported,Imported,10716,0,
+338,MWD_SGV,SPG_SGY,SPG_SGY,Imported,Imported,107112,0,
+339,MWD_CBS,SUR_SDM,SUR_SDM,Imported,Imported,150000,0,
+340,MWD_SGV,SUR_SDM,SUR_SDM,Imported,Imported,5000001,0,
+341,MWD_CBS,SUR_THM,SUR_THM,Imported,Imported,150000,0,
+342,MWD_WCB,IOU_CAW_BH_INDOOR,IOU_CAW_BH,Imported,Imported,2400,0,"increased value to reflect 2020 UWMP, all demand not met by GW will be met by MWD_WCB imports"
+343,MWD_WCB,IOU_CAW_BH_OUTDOOR,IOU_CAW_BH,Imported,Imported,2400,0,"increased value to reflect 2020 UWMP, all demand not met by GW will be met by MWD_WCB imports"
+344,MWD_MET,IOU_CAW_SM_INDOOR,IOU_CAW_SM,Imported,Imported,2360,0,
+345,MWD_MET,IOU_CAW_SM_OUTDOOR,IOU_CAW_SM,Imported,Imported,2360,0,
+346,MWD_USG,IOU_CAW_SM_INDOOR,IOU_CAW_SM,Imported,Imported,1628,0,
+347,MWD_USG,IOU_CAW_SM_OUTDOOR,IOU_CAW_SM,Imported,Imported,1628,0,
+348,MWD_MET,MWD_CBS,MWD_MET,Imported,Imported,72361,0,Allocation is the Tier 1 annual amount from MET
+349,MWD_MET,MWD_FTH,MWD_MET,Imported,Imported,10997,0,
+350,MWD_MET,MWD_USG,MWD_MET,Imported,Imported,142512,0,
+351,MWD_MET,MWD_THV,MWD_MET,Imported,Imported,110474,0,
+352,MWD_MET,MWD_WCB,MWD_MET,Imported,Imported,156874,0,
+353,MWD_CBS,MWD_WRD,MWD_WRD,Imported,Imported,21000,0,
+354,MWD_WCB,MWD_WRD,MWD_WRD,Imported,Imported,15274,0,
+355,SUR_OWN,CTY_LAX_INDOOR,CTY_LAX,Infrastructure,Infrastructure,561000,0,
+356,SUR_OWN,CTY_LAX_OUTDOOR,CTY_LAX,Infrastructure,Infrastructure,561000,0,
+357,INF_LAR,CTY_LAX_INDOOR,CTY_LAX,Infrastructure,Infrastructure,561000,0,
+358,INF_LAR,CTY_LAX_OUTDOOR,CTY_LAX,Infrastructure,Infrastructure,561000,0,
+359,INF_SWP,INF_CAS,,Infrastructure,Infrastructure,200000,0,no topology update needed
+360,INF_CAS,MWD_MET,,Infrastructure,Infrastructure,200000,0,no topology update needed
+361,INF_COL,INF_DVR,,Infrastructure,Infrastructure,200000,0,no topology update needed
+362,INF_COL,MWD_MET,,Infrastructure,Infrastructure,1250000,0,no topology update needed
+363,INF_COL,INF_LMR,,Infrastructure,Infrastructure,200000,0,no topology update needed
+364,MWD_WRD,INF_CSB,,Infrastructure,Infrastructure,22000,0,no topology update needed
+365,INF_CSB,GWB_WCS,,Infrastructure,Infrastructure,50000,0,no topology update needed
+366,INF_SWP,INF_DVR,,Infrastructure,Infrastructure,200000,0,no topology update needed
+367,INF_DVR,MWD_MET,,Infrastructure,Infrastructure,200000,0,no topology update needed
+368,SUR_OWN,INF_LAR,,Infrastructure,Infrastructure,561000,0,no topology update needed
+369,INF_LMR,MWD_MET,,Infrastructure,Infrastructure,200000,0,no topology update needed
+370,INF_SWP,MWD_SGV,,Infrastructure,Infrastructure,68800,0,no topology update needed
+371,INF_SWP,MWD_MET,,Infrastructure,Infrastructure,2046000,0,no topology update needed
+372,SPG_ANI,GWB_RAY,SPG_ANI,Recharge,Spreading_recharge,297,0,
+373,SPG_BDS,GWB_MSG,SPG_BDS,Recharge,Spreading_recharge,712,0,
+374,SPG_BEN,GWB_MSG,SPG_BEN,Recharge,Spreading_recharge,1781,0,
+375,SPG_BRF,GWB_SFE,SPG_BRF,Recharge,Spreading_recharge,59,0,
+376,SPG_BVS,GWB_MSG,SPG_BVS,Recharge,Spreading_recharge,356,0,
+377,SPG_CIT,GWB_MSG,SPG_CIT,Recharge,Spreading_recharge,1662,0,
+378,SPG_DOM,GWB_WCS,SPG_DOM,Recharge,Spreading_recharge,59,0,
+379,SPG_EAB,GWB_RAY,SPG_EAB,Recharge,Spreading_recharge,1187,0,
+380,SPG_ESG,GWB_RAY,SPG_ESG,Recharge,Spreading_recharge,831,0,
+381,SPG_FOR,GWB_MSG,SPG_FOR,Recharge,Spreading_recharge,297,0,
+382,SPG_HSG,GWB_SFE,SPG_HSG,Recharge,Spreading_recharge,8904,0,
+383,SPG_IRW,GWB_MSG,SPG_IRW,Recharge,Spreading_recharge,3561,0,
+384,SPG_LIT,GWB_MSG,SPG_LIT,Recharge,Spreading_recharge,890,0,
+385,SPG_LOP,GWB_SFE,SPG_LOP,Recharge,Spreading_recharge,890,0,
+386,SPG_LOS,GWB_MSG,SPG_LOS,Recharge,Spreading_recharge,772,0,
+387,SPG_PCS,GWB_SFE,SPG_PCS,Recharge,Spreading_recharge,3858,0,
+388,SPG_PEC,GWB_MSG,SPG_PEC,Recharge,Spreading_recharge,1484,0,
+389,SPG_RSF,GWB_CEN,SPG_RSF,Recharge,Spreading_recharge,23743,0,
+390,SPG_SAW,GWB_MSG,SPG_SAW,Recharge,Spreading_recharge,712,0,
+391,SPG_SFG,GWB_MSG,SPG_SFG,Recharge,Spreading_recharge,23743,0,
+392,SPG_SGC,GWB_CEN,SPG_SGC,Recharge,Spreading_recharge,4452,0,
+393,SPG_SGY,GWB_MSG,SPG_SGY,Recharge,Spreading_recharge,2968,0,
+394,SPG_SGY,GWB_CEN,SPG_SGY,Recharge,Spreading_recharge,2968,0,
+395,SPG_SMD,GWB_RAY,SPG_SMD,Recharge,Spreading_recharge,1781,0,
+396,SPG_SND,GWB_MSG,SPG_SND,Recharge,Spreading_recharge,712,0,
+397,SPG_TUJ,GWB_SFE,SPG_TUJ,Recharge,Spreading_recharge,0.999,0,"SPG missing connection to GW basin, added connection"
+398,SPG_WAL,GWB_MSG,SPG_WAL,Recharge,Spreading_recharge,297,0,
+399,MWD_WCR,GWB_WCS,GWB_WCS,Recharge,Coastal_barrier_wells,20480,0,
+400,WRP_BUR,CTY_BUR_OUTDOOR,CTY_BUR,Recycling,Reuse,3500,0,
+401,WRP_LCP,CTY_CER_OUTDOOR,CTY_CER,Recycling,Reuse,2165,0,
+402,MWD_CBR,CTY_DOW_OUTDOOR,CTY_DOW,Recycling,Reuse,710,0,
+403,MWD_WCR,CTY_ELS_OUTDOOR,CTY_ELS,Recycling,Reuse,650,0,
+404,CTY_GDL_INDOOR,WRP_GDL,CTY_GDL,Recycling,Wastewater,22402,0,
+405,WRP_GDL,CTY_GDL_OUTDOOR,CTY_GDL,Recycling,Reuse,2000,0,
+406,MWD_CBR,CTY_HUP_OUTDOOR,CTY_HUP,Recycling,Reuse,44,0,
+407,MWD_WCR,CTY_ING_OUTDOOR,CTY_ING,Recycling,Reuse,800,0,revised based on 2020 UWMP
+408,CTY_LAX_INDOOR,WRP_GDL,CTY_LAX,Recycling,Wastewater,22402,0,
+409,WRP_TIL,CTY_LAX_OUTDOOR,CTY_LAX,Recycling,Reuse,33271,0,
+410,WRP_GDL,CTY_LAX_OUTDOOR,CTY_LAX,Recycling,Reuse,1939,0,
+411,CTY_LAX_INDOOR,WRP_TIL,CTY_LAX,Recycling,Wastewater,84000,0,
+412,MWD_WCR,CTY_LAX_OUTDOOR,CTY_LAX,Recycling,Reuse,608,0,
+413,CTY_LAX_INDOOR,WRP_TER,CTY_LAX,Recycling,Wastewater,18000,0,
+414,CTY_LBH_INDOOR,WRP_LBP,CTY_LBH,Recycling,Wastewater,28003,0,why are some flows to WTPs sometimes categorized as Recycling and other times Wastewater
+415,WRP_LBP,CTY_LBH_OUTDOOR,CTY_LBH,Recycling,Reuse,3400,0,
+416,WRP_LCP,CTY_LKW_OUTDOOR,CTY_LKW,Recycling,Reuse,450,0,
+417,MWD_WCR,CTY_MBC_OUTDOOR,CTY_MBC,Recycling,Reuse,280,0,
+418,MWD_CBR,CTY_NOR_OUTDOOR,CTY_NOR,Recycling,Reuse,82,0,
+419,MWD_CBR,CTY_PAR_OUTDOOR,CTY_PAR,Recycling,Reuse,312,0,
+420,WRP_GDL,CTY_PAS_OUTDOOR,CTY_PAS,Recycling,Reuse,0,0,no reuse in 2020 UWMP
+421,MWD_CBR,CTY_PCR_OUTDOOR,CTY_PCR,Recycling,Reuse,74,0,
+422,WRP_PON,CTY_PNM_OUTDOOR,CTY_PNM,Recycling,Reuse,1700,0,
+423,MWD_CBR,CTY_SFS_OUTDOOR,CTY_SFS,Recycling,Reuse,850,0,based on 2020 UWMP
+424,MWD_CBR,CTY_SGT_OUTDOOR,CTY_SGT,Recycling,Reuse,200,0,
+425,WRP_SMR,CTY_SMC_OUTDOOR,CTY_SMC,Recycling,Reuse,560,0,
+426,MWD_WCR,CTY_TOR_OUTDOOR,CTY_TOR,Recycling,Reuse,400,0,
+427,MWD_CBR,CTY_VER_OUTDOOR,CTY_VER,Recycling,Reuse,800,0,
+428,MWD_CBR,CTY_WHT_OUTDOOR,CTY_WHT,Recycling,Reuse,69,0,
+429,WRP_SJC,CWD_ROW_OUTDOOR,CWD_ROW,Recycling,Reuse,1100,0,
+430,WRP_PON,CWD_WVA_OUTDOOR,CWD_WVA,Recycling,Reuse,1973,0,
+431,MWD_WCR,INF_CSB,,Recycling,Reuse,13812,0,no topology update needed
+432,MWD_WCR,IOU_CWS_DOM_OUTDOOR,IOU_CWS_DOM,Recycling,Reuse,140,0,
+433,MWD_CBR,IOU_CWS_ELA_OUTDOOR,IOU_CWS_ELA,Recycling,Reuse,35,0,
+434,MWD_WCR,IOU_CWS_HAW_OUTDOOR,IOU_CWS_HAW,Recycling,Reuse,100,0,"URWMP cites that West Coast recylcing is sourced from Hyperion, routed to Edward little, then to WCR. THESE links exist in Artes so no new links needed"
+435,MWD_WCR,IOU_CWS_HR_OUTDOOR,IOU_CWS_HR,Recycling,Reuse,200,0,
+436,MWD_WCR,IOU_CWS_PV_OUTDOOR,IOU_CWS_PV,Recycling,Reuse,200,0,
+437,MWD_CBR,IOU_GS_ART_OUTDOOR,IOU_GS_ART,Recycling,Reuse,100,0,
+438,MWD_CBR,IOU_GS_BBG_OUTDOOR,IOU_GS_BBG,Recycling,Reuse,122,0,
+439,MWD_CBR,IOU_GS_NOR_OUTDOOR,IOU_GS_NOR,Recycling,Reuse,160,0,
+440,MWD_USR,IOU_GS_SSG_OUTDOOR,IOU_GS_SSG,Recycling,Reuse,30,0,
+441,MWD_WCR,IOU_GS_SW_OUTDOOR,IOU_GS_SW,Recycling,Reuse,500,0,
+442,MWD_CBR,IOU_PWC_OUTDOOR,IOU_PWC,Recycling,Reuse,362,0,
+443,MWD_USR,IOU_SWS_SJH_OUTDOOR,IOU_SWS_SJH,Recycling,Reuse,700,0,
+444,MWD_CBR,MWC_BLS_OUTDOOR,MWC_BLS,Recycling,Reuse,123,0,
+445,MWD_CBR,CTY_BEL_OUTDOOR,CTY_BEL,Recycling,Reuse,17,0,
+446,WRP_LCP,CTY_BEL_OUTDOOR,CTY_BEL,Recycling,Reuse,47,0,
+447,WRP_SJC,CTY_IND_OUTDOOR,CTY_IND,Recycling,Reuse,950,0,
+448,MWD_CBR,CWD_PIC_OUTDOOR,CWD_PIC,Recycling,Reuse,50,0,
+449,MWD_WCR,PRV_WMI_INDOOR,PRV_WMI,Recycling,Reuse,15535,0,
+450,MWD_WCR,PRV_WMI_OUTDOOR,PRV_WMI,Recycling,Reuse,15535,0,
+451,WRP_GDL,MWD_FTR,WRP_GDL,Recycling,Reuse,200,0,
+452,WRP_LBP,MWD_WRD,WRP_LBP,Recycling,Reuse,2089,0,
+453,WRP_LCP,MWD_CBR,WPR_LCP,Recycling,Reuse,23000,0,
+454,WRP_LIT,MWD_WCR,WRP_LIT,Recycling,Reuse,41988,0,
+455,WRP_SJC,MWD_CBR,WRP_SJC,Recycling,Reuse,320,0,
+456,WRP_SJC,MWD_USR,WRP_SJC,Recycling,Reuse,1188,0,
+457,WRP_SJC,MWD_WRD,WRP_SJC,Recycling,Reuse,55600,0,
+458,WRP_TAP,MWD_LVR,WRP_TAP,Recycling,Reuse,4522,0,
+459,WRP_TER,MWD_WRD,WRP_TER,Recycling,Reuse,3000,0,
+460,WRP_WHP,MWD_WRD,WRP_WHP,Recycling,Reuse,6870,0,
+461,WRP_WHP,MWD_USR,WRP_WHP,Recycling,Reuse,1550,0,
+462,SUR_SAU,SPG_ANI,SPG_ANI,Spreading,Spreading_inflow,1190,0,
+463,SUR_BDU,SPG_BDS,SPG_BDS,Spreading,Spreading_inflow,2678,0,
+464,SUR_SDL,SPG_BEN,SPG_BEN,Spreading,Spreading_inflow,23802,0,
+465,SUR_COV,SPG_BEN,SPG_BEN,Spreading,Spreading_inflow,23802,0,
+466,SUR_BRF,SPG_BRF,SPG_BRF,Spreading,Spreading_inflow,8152,0,
+467,SUR_BVS,SPG_BVS,SPG_BVS,Spreading,Spreading_inflow,10532,0,
+468,SUR_SGM,SPG_BVS,SPG_BVS,Spreading,Spreading_inflow,10532,0,
+469,SUR_BDM,SPG_CIT,SPG_CIT,Spreading,Spreading_inflow,174948,0,
+470,SUR_LAL,SPG_DOM,SPG_DOM,Spreading,Spreading_inflow,3576,0,
+471,SUR_EAB,SPG_EAB,SPG_EAB,Spreading,Spreading_inflow,285624,0,
+472,SUR_EAT,SPG_ESG,SPG_ESG,Spreading,Spreading_inflow,142812,0,
+473,SUR_SDM,SPG_FOR,SPG_FOR,Spreading,Spreading_inflow,71400,0,
+474,SUR_TUU,SPG_HSG,SPG_HSG,Spreading,Spreading_inflow,428424,0,
+475,SUR_BDL,SPG_IRW,SPG_IRW,Spreading,Spreading_inflow,285624,0,
+476,SUR_PCU,SPG_LOP,SPG_LOP,Spreading,Spreading_inflow,60000012,0,
+477,SUR_SAL,SPG_PEC,SPG_PEC,Spreading,Spreading_inflow,21492888,0,
+478,SUR_SAW,SPG_PEC,SPG_PEC,Spreading,Spreading_inflow,3570252,0,
+479,SUR_SAW,SPG_SAW,SPG_SAW,Spreading,Spreading_inflow,21420,0,
+480,SUR_SGU,SPG_SFG,SPG_SFG,Spreading,Spreading_inflow,428424,0,
+481,SUR_SGC,SPG_SGC,SPG_SGC,Spreading,Spreading_inflow,252000,0,
+482,SUR_SGU,SPG_SGC,SPG_SGC,Spreading,Spreading_inflow,107112,0,
+483,SUR_SAU,SPG_SMD,SPG_SMD,Spreading,Spreading_inflow,24000,0,
+484,SUR_SMD,SPG_SMD,SPG_SMD,Spreading,Spreading_inflow,24000,0,
+485,SUR_SDU,SPG_SND,SPG_SND,Spreading,Spreading_inflow,17856,0,
+486,SUR_TUU,SPG_TUJ,SPG_TUJ,Spreading,Spreading_inflow,480000,0,
+487,SUR_WLU,SPG_WAL,SPG_WAL,Spreading,Spreading_inflow,8926,0,
+488,INF_LOD,SPG_LOS,,Spreading,Spreading_inflow,10716,0,no topology update needed
+489,INF_WHR,SPG_RSF,INF_RSG should be SPG_RSF,Spreading,Spreading_inflow,116033,0,
+490,SUR_LIT,SPG_LIT,SPG_LIT,Spreading,Spreading_inflow,14280,0,
+491,SUR_SGU,CTY_AZU_INDOOR,CTY_AZU,Surface,Surface_use,9000,0,
+492,SUR_SGU,CTY_AZU_OUTDOOR,CTY_AZU,Surface,Surface_use,9000,0,
+493,SUR_ASE,CTY_PAS_INDOOR,CTY_PAS,Surface,Surface_use,2380,0,
+494,SUR_ASE,CTY_PAS_OUTDOOR,CTY_PAS,Surface,Surface_use,2380,0,
+495,SUR_SAU,CTY_SIE_INDOOR,CTY_SIE,Surface,Surface_use,228,0,
+496,SUR_SAU,CTY_SIE_OUTDOOR,CTY_SIE,Surface,Surface_use,228,0,
+497,SUR_BTD,INF_BTD,,Surface,Surface,5000001,0,no topology update needed
+498,INF_BTD,SUR_HAN,,Surface,Surface,5000001,0,no topology update needed
+499,SUR_HAN,INF_HAN,,Surface,Surface,5000001,0,no topology update needed
+500,INF_HAN,SUR_TUU,,Surface,Surface,4760000,0,no topology update needed
+501,SUR_LOS,INF_LOD,,Surface,Surface,5000001,0,no topology update needed
+502,INF_LOD,INF_PUD,,Surface,Surface,100001,0,no topology update needed
+503,SUR_MOR,INF_MOR,,Surface,Surface,5000001,0,no topology update needed
+504,INF_MOR,SUR_SGU,,Surface,Surface,80000,0,no topology update needed
+505,SUR_PCD,INF_PCD,,Surface,Surface,5000001,0,no topology update needed
+506,INF_PCD,SUR_PCU,,Surface,Surface,5000001,0,no topology update needed
+507,SUR_PUD,INF_PUD,,Surface,Surface,5000001,0,no topology update needed
+508,INF_PUD,SUR_WLU,,Surface,Surface,100001,0,no topology update needed
+509,SUR_SAC,INF_SAD,,Surface,Surface,21492888,0,no topology update needed
+510,INF_SAD,SUR_SAU,,Surface,Surface,5000001,0,no topology update needed
+511,INF_SFD,SPG_BVS,,Surface,Surface,10532,0,"(INF_BNV) [THIS NODE DOESN'T EXIST, SPG_BVS is the node ID for Buena Vista SG]"
+512,SUR_SGM,INF_SFD,,Surface,Surface,5000001,0,no topology update needed
+513,SUR_SGM,INF_SFN,,Surface,Surface,5000001,0,no topology update needed
+514,INF_SFN,SUR_SGP,,Surface,Surface,5000001,0,no topology update needed
+515,SUR_SGD,INF_SGD,,Surface,Surface,5000001,0,no topology update needed
+516,INF_SGD,SUR_MOR,,Surface,Surface,80000,0,no topology update needed
+517,INF_SGD,PRV_SGR_INDOOR,,Surface,Surface,80000,0,no topology update needed
+518,INF_SGD,PRV_SGR_OUTDOOR,,Surface,Surface,80000,0,no topology update needed
+519,SUR_SND,INF_SND,,Surface,Surface,5000001,0,no topology update needed
+520,INF_SND,SUR_SDU,,Surface,Surface,5000001,0,no topology update needed
+521,WRP_TIL,INF_SPV,,Surface,WRP_surface_outflow,88392,0,no topology update needed
+522,SUR_SPV,INF_SPV,,Surface,Surface,5000001,0,no topology update needed
+523,INF_SPV,SUR_LAU,,Surface,Surface,6426446,0,no topology update needed
+524,INF_WHS,INF_WHR,,Surface,Surface,5000001,0,
+525,WRP_WHP,INF_WHR,Whittier Narrows treatment plant shuld be WRP_WHP no0 tWTP,Surface,WRP_surface_outflow,999999,0,
+526,INF_WHR,SUR_RHL,,Surface,Surface,5000001,0,consider aggregating SUR_RHL and SUR_RHU
+527,SUR_SJC,INF_WHS,,Surface,Surface,5000001,0,no topology update needed
+528,SUR_SGP,INF_WHS,,Surface,Surface,5000001,0,no topology update needed
+529,INF_WHS,SUR_SGC,,Surface,Surface,1200000,0,no topology update needed
+530,SUR_SDM,IOU_GS_SD_INDOOR,IOU_GS_SD,Surface,Surface_use,200,0,
+531,SUR_SDM,IOU_GS_SD_OUTDOOR,IOU_GS_SD,Surface,Surface_use,200,0,
+532,SUR_SGU,MWC_COV_INDOOR,MWC_COV,Surface,Surface_use ,6983,0,missing monthly use data
+533,SUR_SGU,MWC_COV_OUTDOOR,MWC_COV,Surface,Surface_use ,6983,0,missing monthly use data
+534,PRV_SGR_INDOOR,SUR_COV,PRV_SGR,Surface,City_outflow,5000001,0,"Figure out topology. Indoor and outdoor demand or just outdoor?, if outdoor, no connection to Surface"
+535,SPG_BRF,SUR_PCL,SPG_BRF,Surface,Surface,91636,0,
+536,SPG_LIT,SUR_BDL,SPG_LIT,Surface,Surface,5000001,0,
+537,SPG_LOP,SUR_PCL,SPG_LOP,Surface,Surface,5000001,0,
+538,SPG_PCS,SUR_PCD,SPG_PCS,Surface,Surface,1011570,0,
+539,SUR_PCL,SPG_PCS,SPG_PCS,Surface,Spreading_inflow,35702,0,
+540,SPG_PEC,SUR_RHU,SPG_PEC,Surface,Surface,5000001,0,"removed CAL_192, route SPG_PEC to SUR_RHU"
+541,SUR_ASE,SUR_LAL,SUR_ASE,Surface,Surface,10000001,0,
+542,SUR_BAL,SUR_BAC,SUR_BAL,Surface,Surface,5000001,0,
+543,SUR_BAC,SUR_PAC,SUR_BAC,Surface,Surface,5000001,0,
+544,SUR_SDL,SUR_BDL,SUR_SDL,Surface,Surface,5000001,0,
+545,SUR_SDM,SUR_SDL,SUR_SDL,Surface,Surface,5000001,0,
+546,SUR_BDU,SUR_BDS,SUR_BDU,Surface,Surface,5000001,0,
+547,SUR_BDS,SUR_BDM,SUR_BDS,Surface,Surface,5000001,0,
+548,SUR_BDM,SUR_BDL,SUR_BDM,Surface,Surface,5000001,0,
+549,MWD_SGV,SUR_BDM,SUR_BDM,Surface,City_outflow,5000001,0,
+550,SUR_LIT,SUR_BDM,SUR_BDM,Surface,Surface,5000001,0,
+551,SUR_COV,SUR_BDM,SUR_BDM,Surface,Surface,5000001,0,
+552,WRP_LBH,SUR_COY,SUR_COY,Surface,WRP_surface_outflow,27624,0,
+553,SUR_COY,SUR_SGO,SUR_COY,Surface,Surface,5000001,0,
+554,SUR_DOM,SUR_PAC,SUR_DOM,Surface,Surface,5000001,0,
+555,SUR_EAT,SUR_EAB,SUR_EAB,Surface,Surface,5000001,0,
+556,SUR_EAB,SUR_RHU,SUR_EAB,Surface,Surface,5000001,0,
+557,SUR_SDU,SUR_SDM,SUR_SDM,Surface,Surface,5000001,0,
+558,SUR_BDL,SUR_SGL,SUR_BDL,Surface,Surface,5000001,0,"delete CAL_274, connect SUR_BDL to SUR_SGL"
+559,SUR_PCU,SUR_PCL,SUR_PCU,Surface,Surface,5000001,0,
+560,SUR_LAL,SUR_PAC,SUR_LAL,Surface,Surface,450001,0,"removed CAL_319, link SUR_LAL to SUR_PAC"
+561,SUR_RHL,SUR_LAL,SUR_LAL,Surface,Surface,5000001,0,"remove CAL_45C, connect SUR_RHL to SUR_LAL"
+562,SUR_LAU,SUR_LAL,SUR_LAL,Surface,Surface,10000001,0,"remove CAL_57C, connect SUR_LAU to SUR_LAL"
+563,SUR_SGC,SUR_SGL,SUR_SGL,Surface,Surface,1200000,0,
+564,SUR_MAC,SUR_MAL,SUR_MAL,Surface,Surface,5000001,0,
+565,SUR_MAL,SUR_PAC,SUR_MAL,Surface,Surface,5000001,0,
+566,SUR_PCD,SUR_LAU,SUR_PCD,Surface,Surface,10000001,0,
+567,SUR_PCL,SUR_TUJ,SUR_PCL,Surface,Surface,5000001,0,
+568,SUR_SAU,SUR_SAL,SUR_SAL,Surface,Surface,5000001,0,
+569,SUR_SDU,SUR_PUD,SUR_PUD,Surface,Surface,5000001,0,
+570,SUR_RHU,INF_WHR,SUR_RHU,Surface,Surface,5000001,0,"remove CAL_064, connect SUR_RHU to INF_WHR"
+571,SUR_SGU,SUR_SGM,SUR_SGU,Surface,Surface,5000001,0,
+572,MWD_SGV,SUR_SGU,SUR_SGU,Surface,City_outflow,5000001,0,
+573,MWD_USG,SUR_SGU,SUR_SGU,Surface,City_outflow,5000001,0,
+574,SUR_WLL,SUR_SGP,SUR_SGP,Surface,Surface,5000001,0,"removed CAL_304, connect SUR_WLL to SUR_SGP "
+575,SUR_THM,SUR_SJC,SUR_SJC,Surface,Surface,5000001,0,
+576,WRP_SJC,SUR_SJC,SUR_SJC,Surface,WRP_surface_outflow,999999,0,
+577,WRP_PON,SUR_SJC,SUR_SJC,Surface,WRP_surface_outflow,16572,0,
+578,SUR_SMD,SUR_SAU,SUR_SAU,Surface,Surface,5000001,0,
+579,SUR_SPV,SUR_LAU,SUR_SPV,Surface,Surface,5000001,0,
+580,WRP_GDL,SUR_LAU,SUR_LAU,Surface,WRP_surface_outflow,10000001,0,
+581,BUR_WRP,SUR_LAU,SUR_LAU,Surface,WRP_surface_outflow,9948,0,
+582,SUR_TUJ,SUR_LAU,SUR_LAU,Surface,Surface,10000001,0,
+583,WRP_BUR,SUR_LAU,SUR_LAU,Surface,WRP_surface_outflow,5000001,0,
+584,SUR_VER,SUR_LAU,SUR_LAU,Surface,Surface,10000001,0,
+585,SUR_WLU,SUR_WLL,SUR_WLL,Surface,Surface,5000001,0,
+586,WRP_JWP,SUR_PAC,SUR_PAC,Surface,WRP_surface_outflow,9999999,0,
+587,SUR_SGO,SUR_PAC,SUR_PAC,Surface,Surface,300001,0,
+588,WRP_HYP,SUR_PAC,SUR_PAC,Surface,WRP_surface_outflow,503000,0,
+589,SUR_TUU,SUR_TUJ,SUR_TUJ,Surface,Surface,1300000,0,
+590,SUR_SGU,IOU_CAW_DUR_INDOOR,IOU_CAW_DUR,Surface,Surface_use ,1672,0,
+591,SUR_SGU,IOU_CAW_DUR_OUTDOOR,IOU_CAW_DUR,Surface,Surface_use ,1672,0,
+592,CTY_ALH_INDOOR,WRP_LCP,CTY_ALH,Wastewater,WRP_inflow,13247,0,
+593,CTY_ALH_INDOOR,WRP_WHP,CTY_ALH,Wastewater,WRP_inflow,13247,0,
+594,CTY_ARC_INDOOR,WRP_SJC,CTY_ARC,Wastewater,WRP_inflow,17017,0,
+595,CTY_ARC_INDOOR,WRP_WHP,CTY_ARC,Wastewater,WRP_inflow,17017,0,
+596,CTY_AZU_INDOOR,WRP_SJC,CTY_AZU,Wastewater,WRP_inflow,24124,0,
+597,CTY_BHL_INDOOR,WRP_HYP,CTY_BHL,Wastewater,WRP_inflow,13351,0,
+598,CTY_BUR_INDOOR,WRP_BUR,CTY_BUR,Wastewater,WRP_inflow,14002,0,
+599,CTY_BUR_INDOOR,WRP_HYP,CTY_BUR,Wastewater,WRP_inflow,22852,0,
+600,CTY_CER_INDOOR,WRP_LBP,CTY_CER,Wastewater,WRP_inflow,16708,0,
+601,CTY_COV_INDOOR,WRP_SJC,CTY_COV,Wastewater,WRP_inflow,10000,0,
+602,CTY_DOW_INDOOR,WRP_LCP,CTY_DOW,Wastewater,WRP_inflow,17412,0,
+603,CTY_DOW_INDOOR,WRP_JWP,CTY_DOW,Wastewater,WRP_inflow,17421,0,
+604,CTY_ELM_INDOOR,WRP_LCP,CTY_ELM,Wastewater,WRP_inflow,3000,0,
+605,CTY_ELM_INDOOR,WRP_WHP,CTY_ELM,Wastewater,WRP_inflow,3000,0,
+606,CTY_ELS_INDOOR,WRP_HYP,CTY_ELS,Wastewater,WRP_inflow,17789,0,
+607,CTY_GDL_INDOOR,WRP_HYP,CTY_GDL,Wastewater,WRP_inflow,32340,0,
+608,CTY_GDR_INDOOR,WRP_SJC,CTY_GDR,Wastewater,WRP_inflow,13414,0,
+609,CTY_HUP_INDOOR,WRP_JWP,CTY_HUP,Wastewater,WRP_inflow,5435,0,
+610,CTY_ING_INDOOR,WRP_JWP,CTY_ING,Wastewater,WRP_inflow,20000,0,
+611,CTY_LAV_INDOOR,WRP_PON,CTY_LAV,Wastewater,WRP_inflow,8761,0,
+612,CTY_LAX_INDOOR,WRP_HYP,CTY_LAX,Wastewater,WRP_inflow,643359,0,
+613,CTY_LBH_INDOOR,WRP_JWP,CTY_LBH,Wastewater,WRP_inflow,67680,0,why are some flows to WTPs sometimes categorized as Recycling and other times Wastewater
+614,CTY_LKW_INDOOR,WRP_JWP,CTY_LKW,Wastewater,WRP_inflow,9387,0,
+615,CTY_LKW_INDOOR,WRP_LBP,CTY_LKW,Wastewater,WRP_inflow,9387,0,
+616,CTY_LOM_INDOOR,WRP_JWP,CTY_LOM,Wastewater,WRP_inflow,2655,0,
+617,CTY_LYN_INDOOR,WRP_JWP,CTY_LYN,Wastewater,WRP_inflow,6103,0,
+618,CTY_MBC_INDOOR,WRP_JWP,CTY_MBC,Wastewater,WRP_inflow,7102,0,
+619,CTY_MON_INDOOR,WRP_SJC,CTY_MON,Wastewater,WRP_inflow,8331,0,
+620,CTY_MON_INDOOR,WRP_WHP,CTY_MON,Wastewater,WRP_inflow,8331,0,
+621,CTY_MTP_INDOOR,WRP_JWP,CTY_MTP,Wastewater,WRP_inflow,9342,0,
+622,CTY_NOR_INDOOR,WRP_LCP,CTY_NOR,Wastewater,WRP_inflow,2443,0,
+623,CTY_NOR_INDOOR,WRP_JWP,CTY_NOR,Wastewater,WRP_inflow,2443,0,
+624,CTY_PAR_INDOOR,WRP_JWP,CTY_PAR,Wastewater,WRP_inflow,7288,0,
+625,CTY_PAS_INDOOR,WRP_SJC,CTY_PAS,Wastewater,WRP_inflow,37152,0,
+626,CTY_PAS_INDOOR,WRP_WHP,CTY_PAS,Wastewater,WRP_inflow,37152,0,
+627,CTY_PCR_INDOOR,WRP_LCP,CTY_PCR,Wastewater,WRP_inflow,5771,0,
+628,CTY_PCR_INDOOR,WRP_JWP,CTY_PCR,Wastewater,WRP_inflow,5771,0,
+629,CTY_PNM_INDOOR,WRP_PON,CTY_PNM,Wastewater,WRP_inflow,25003,0,
+630,CTY_SFE_INDOOR,WRP_HYP,CTY_SFE,Wastewater,WRP_inflow,3667,0,
+631,CTY_SFS_INDOOR,WRP_LCP,CTY_SFS,Wastewater,WRP_inflow,6649,0,
+632,CTY_SGT_INDOOR,WRP_JWP,CTY_SGT,Wastewater,WRP_inflow,10267,0,
+633,CTY_SIE_INDOOR,WRP_SJC,CTY_SIE,Wastewater,WRP_inflow,3162,0,
+634,CTY_SIE_INDOOR,WRP_WHP,CTY_SIE,Wastewater,WRP_inflow,3162,0,
+635,CTY_SIG_INDOOR,WRP_JWP,CTY_SIG,Wastewater,WRP_inflow,2130,0,
+636,CTY_SMC_INDOOR,WRP_SMR,CTY_SMC,Wastewater,WRP_inflow,9207,0,
+637,CTY_SMC_INDOOR,WRP_HYP,CTY_SMC,Wastewater,WRP_inflow,14730,0,
+638,CTY_SPA_INDOOR,WRP_LCP,CTY_SPA,Wastewater,WRP_inflow,5022,0,
+639,CTY_SPA_INDOOR,WRP_WHP,CTY_SPA,Wastewater,WRP_inflow,5022,0,
+640,CTY_TOR_INDOOR,WRP_JWP,CTY_TOR,Wastewater,WRP_inflow,27590,0,
+641,CTY_VER_INDOOR,WRP_JWP,CTY_VER,Wastewater,WRP_inflow,10379,0,
+642,CTY_WHT_INDOOR,WRP_LCP,CTY_WHT,Wastewater,WRP_inflow,8663,0,
+643,CWD_CRE_INDOOR,WRP_HYP,CWD_CRE,Wastewater,WRP_inflow,4698,0,
+644,CWD_LA2_INDOOR,WRP_HYP,CWD_LA2,Wastewater,WRP_inflow,9044,0,
+645,CWD_ORC_INDOOR,WRP_LCP,CWD_ORC,Wastewater,WRP_inflow,2391,0,
+646,CWD_ROW_INDOOR,WRP_SJC,CWD_ROW,Wastewater,WRP_inflow,12719,0,
+647,CWD_SGB_INDOOR,WRP_LCP,CWD_SGB,Wastewater,WRP_inflow,7457,0,
+648,CWD_SGB_INDOOR,WRP_WHP,CWD_SGB,Wastewater,WRP_inflow,7457,0,
+649,CWD_VAL_INDOOR,WRP_SJC,CWD_VAL,Wastewater,WRP_inflow,9326,0,
+650,CWD_WVA_INDOOR,WRP_SJC,CWD_WVA,Wastewater,WRP_inflow,23610,0,
+651,IOU_CWS_DOM_INDOOR,WRP_JWP,IOU_CWS_DOM,Wastewater,WRP_inflow,30000,0,
+652,IOU_CWS_ELA_INDOOR,WRP_JWP,IOU_CWS_ELA,Wastewater,WRP_inflow,14000,0,
+653,IOU_CWS_HAW_INDOOR,WRP_HYP,IOU_CWS_HAW,Wastewater,WRP_inflow,4000,0,
+654,IOU_CWS_HR_INDOOR,WRP_JWP,IOU_CWS_HR,Wastewater,WRP_inflow,9000,0,
+655,IOU_CWS_PV_INDOOR,WRP_JWP,IOU_CWS_PV,Wastewater,WRP_inflow,15000,0,
+656,IOU_GS_ART_INDOOR,WRP_LBP,IOU_GS_ART,Wastewater,WRP_inflow,6000,0,
+657,IOU_GS_BBG_INDOOR,WRP_LBP,IOU_GS_BBG,Wastewater,WRP_inflow,5000,0,
+658,IOU_GS_CLA_INDOOR,WRP_PON,IOU_GS_CLA,Wastewater,WRP_inflow,10000,0,
+659,IOU_GS_CC_INDOOR,WRP_HYP,IOU_GS_CC,Wastewater,WRP_inflow,5000,0,
+660,IOU_GS_FG_INDOOR,WRP_JWP,IOU_GS_FG,Wastewater,WRP_inflow,5000,0,
+661,IOU_GS_NOR_INDOOR,WRP_LCP,IOU_GS_NOR,Wastewater,WRP_inflow,4000,0,
+662,IOU_GS_SAR_INDOOR,WRP_JWP,IOU_GS_SAR,Wastewater,WRP_inflow,4000,0,
+663,IOU_GS_SSG_INDOOR,WRP_WHP,IOU_GS_SSG,Wastewater,WRP_inflow,3000,0,
+664,IOU_GS_SD_INDOOR,WRP_SJC,IOU_GS_SD,Wastewater,WRP_inflow,14000,0,
+665,IOU_GS_SW_INDOOR,WRP_JWP,IOU_GS_SW,Wastewater,WRP_inflow,26000,0,
+666,IOU_PWC_INDOOR,WRP_JWP,IOU_PWC,Wastewater,WRP_inflow,13035,0,
+667,IOU_SGV_INDOOR,WRP_LCP,IOU_SGV,Wastewater,WRP_inflow,40577,0,
+668,IOU_SGV_INDOOR,WRP_JWP,IOU_SGV,Wastewater,WRP_inflow,40577,0,
+669,IOU_SWS_SJH_INDOOR,WRP_SJC,IOU_SWS_SJH,Wastewater,WRP_inflow,52650,0,
+670,IRR_KIN_INDOOR,WRP_SJC,IRR_KIN,Wastewater,WRP_inflow,713,0,
+671,IRR_KIN_INDOOR,WRP_WHP,IRR_KIN,Wastewater,WRP_inflow,713,0,
+672,IRR_LAC_INDOOR,WRP_LCP,IRR_LAC,Wastewater,WRP_inflow,2311,0,
+673,IRR_LAC_INDOOR,WRP_WHP,IRR_LAC,Wastewater,WRP_inflow,2311,0,
+674,IRR_SMT_INDOOR,WRP_JWP,IRR_SMT,Wastewater,WRP_inflow,2100,0,
+675,MWC_AMA_INDOOR,WRP_LCP,MWC_AMA,Wastewater,WRP_inflow,400,0,"missing monthly use data, only supply source is transfers from IOU_SGV"
+676,MWC_AMA_INDOOR,WRP_WHP,MWC_AMA,Wastewater,WRP_inflow,400,0,
+677,MWC_BLS_INDOOR,WRP_JWP,MWC_BLS,Wastewater,WRP_inflow,5375,0,
+678,MWC_CDM_INDOOR,WRP_LCP,MWC_CDM,Wastewater,WRP_inflow,8200,0,
+679,MWC_COV_INDOOR,WRP_SJC,MWC_COV,Wastewater,WRP_inflow,14807,0,
+680,MWC_LAV_INDOOR,WRP_SJC,MWC_LAV,Wastewater,WRP_inflow,2357,0,
+681,MWC_LAV_INDOOR,WRP_WHP,MWC_LAV,Wastewater,WRP_inflow,2357,0,
+682,MWC_LFL_INDOOR,WRP_SJC,MWC_LFL,Wastewater,WRP_inflow,520,0,
+683,MWC_LFL_INDOOR,WRP_WHP,MWC_LFL,Wastewater,WRP_inflow,520,0,
+684,MWC_MA1_INDOOR,WRP_JWP,MWC_MA1,Wastewater,WRP_inflow,700,0,
+685,MWC_MON_INDOOR,WRP_JWP,MWC_MON,Wastewater,WRP_inflow,5000,0,
+686,MWC_RUB_INDOOR,WRP_SJC,MWC_RUB,Wastewater,WRP_inflow,2055,0,
+687,MWC_RUB_INDOOR,WRP_WHP,MWC_RUB,Wastewater,WRP_inflow,2055,0,
+688,MWC_SSL_INDOOR,WRP_SJC,MWC_SSL,Wastewater,WRP_inflow,2594,0,
+689,MWC_SSL_INDOOR,WRP_WHP,MWC_SSL,Wastewater,WRP_inflow,2594,0,
+690,MWC_VHT_INDOOR,WRP_SJC,MWC_VHT,Wastewater,WRP_inflow,900,0,
+691,MWC_VWC_INDOOR,WRP_LCP,MWC_VWC,Wastewater,WRP_inflow,2427,0,
+692,MWC_VWC_INDOOR,WRP_WHP,MWC_VWC,Wastewater,WRP_inflow,2427,0,
+693,MWD_LVI_INDOOR,WRP_TAP,MWD_LVI,Wastewater,WRP_inflow,1519,0,
+694,MWD_LVI_INDOOR,WRP_HYP,MWD_LVI,Wastewater,WRP_inflow,30000,0,
+695,CTY_BEL_INDOOR,WRP_JWP,CTY_BEL,Wastewater,WRP_inflow,692,0,
+696,CTY_IND_INDOOR,WRP_JWP,CTY_IND,Wastewater,WRP_inflow,3000,0,
+697,CWD_LAH_INDOOR,WRP_SJC,CWD_LAH,Wastewater,WRP_inflow,2712,0,end node mislabeled as SUR_PAC
+698,CWD_LAP_INDOOR,WRP_SJC,CWD_LAP,Wastewater,WRP_inflow,2767,0,
+699,CWD_PIC_INDOOR,WRP_LCP,CWD_PIC,Wastewater,WRP_inflow,3492,0,
+700,CWD_PIC_INDOOR,WRP_JWP,CWD_PIC,Wastewater,WRP_inflow,3492,0,
+701,CTY_CPT_INDOOR,WRP_JWP,CTY_CPT,Wastewater,WRP_inflow,9487,0,
+702,CWD_SAV_INDOOR,WRP_JWP,CWD_SAV,Wastewater,WRP_inflow,830,0,
+703,PRV_CEN_INDOOR,WRP_JWP,PRV_CEN,Wastewater,WRP_inflow,1406,0,
+704,PRV_MSG_INDOOR,WRP_JWP,PRV_MSG,Wastewater,WRP_inflow,13355,0,
+705,PRV_RAY_INDOOR,WRP_SJC,PRV_RAY,Wastewater,WRP_inflow,558,0,
+706,PRV_WCS_INDOOR,WRP_JWP,PRV_WCS,Wastewater,WRP_inflow,5482,0,
+707,PRV_WMI_INDOOR,WRP_HYP,PRV_WMI,Wastewater,WRP_inflow,15000,0,
+708,IOU_CAW_BH_INDOOR,WRP_HYP,IOU_CAW_BH,Wastewater,WRP_inflow,4000,0,
+709,IOU_CAW_SM_INDOOR,WRP_JWP,IOU_CAW_SM,Wastewater,WRP_inflow,11000,0,
+710,IOU_CAW_DUR_INDOOR,WRP_JWP,IOU_CAW_DUR,Wastewater,WRP_inflow,8000,0,
+711,IOU_SWS_WLM_INDOOR,WRP_WHP,IOU_SWS_WLM,Wastewater,WRP_inflow,15000,0,"was 2000, trying out 10000 to see if it remedies indoor shortage which is only occuring at THIS node under 100% imports "
+712,WRP_LCP,SUR_PAC,WRP_LCP,Surface,WRP_surface_outflow,999999,0,added link to SUR_PAC to provide a surface outflow 
+713,GWB_MSG,MWC_VHT_INDOOR,MWC_VHT,Groundwater,Groundwater,6578,0,"add to represent soure for MWC_VHT, which in Artes was transfers from MWC_COV"
+714,SUR_SGU,MWC_VHT_INDOOR,MWC_VHT,Surface,Surface_use ,6983,0,"add to represent soure for MWC_VHT, which in Artes was transfers from MWC_COV"
+715,GWB_MSG,MWC_VHT_OUTDOOR,MWC_VHT,Groundwater,Groundwater,6578,0,"add to represent soure for MWC_VHT, which in Artes was transfers from MWC_COV"
+716,SUR_SGU,MWC_VHT_OUTDOOR,MWC_VHT,Surface,Surface_use ,6983,0,"add to represent soure for MWC_VHT, which in Artes was transfers from MWC_COV"
+717,WRP_LBP,SUR_PAC,WRP_LCP,Surface,WRP_surface_outflow,999999,0,added link to SUR_PAC to provide a surface outflow 
+718,SUR_SGL,SUR_PAC,SUR_SGL,Surface,Surface ,500001,0,added link to SUR_PAC to provide basin outflow 
+719,SPG_DOM,SUR_LAL,SPG_DOM,Spreading,Spreading_outflow,500001,0,added link to SUR_LAL to link outflow to SUR_PAC
+720,GWB_MSG,MWC_AMA_INDOOR,MWC_AMA,Groundwater,Groundwater,400,0,
+721,GWB_MSG,MWC_AMA_OUTDOOR,MWC_AMA,Groundwater,Groundwater,400,0,
+722,MWC_MCR_INDOOR,WRP_LAC,MWC_MCR,Wastewater,Wastewater,1000,0,"added connection to WRP_LAC to test out, check what actual WRP is"
+723,WRP_HYP,WRP_LIT,WRP_LIT,Wastewater,Wastewater,41988,0,"only supplied by WRP_LIT which has no connections, FIX - add connection from HYP to LIT, changed from 10000 to 41988 to match annual capacity of WRP_LIT to MWD_WCR"
+724,PRV_WOC_INDOOR,SUR_OIL,PRV_WOC,Surface,WRP_surface_outflow,10000,0,"FIX: connect to one or more WRP OR route to dummy ""oil and chemical"" effluent node "
+725,PRV_MOC_INDOOR,SUR_OIL,PRV_MOC,Surface,WRP_surface_outflow,10000,0,"FIX: connect to one or more WRP OR route to dummy ""oil and chemical"" effluent node "
+726,PRV_COC_INDOOR,SUR_OIL,PRV_COC,Surface,WRP_surface_outflow,10000,0,"FIX: connect to one or more WRP OR route to dummy ""oil and chemical"" effluent node "
+727,WRP_LAC,SUR_ASE,WRP_LAC,Surface,WRP_surface_outflow,999999,0,FIX: connect to one or more WRP. Connected to WRP_LAC and added WRP_LAC to SUR_ASE outflow link
+728,MWD_LVR,MWD_LVI_OUTDOOR,MWD_LVI,Reuse,Reuse,4700,0,added connection of LVR recycled water to LVI outdoor use
+729,MWD_WCB,CTY_LOM_INDOOR,CTY_LOM,Imported,Imported,2700,0,based on 2020 UWMP
+730,MWD_WCB,CTY_LOM_OUTDOOR,CTY_LOM,Imported,Imported,2700,0,based on 2020 UWMP
+731,MWD_USG,CTY_SIE_INDOOR,CTY_SIE,Imported,Imported,2000,0,"Added based on 2020 UWMP, used MWD_UGV instead of MWD_SGV"
+732,MWD_USG,CTY_SIE_OUTDOOR,CTY_SIE,Imported,Imported,2000,0,"Added based on 2020 UWMP, used MWD_UGV instead of MWD_SGV"
+733,GWB_MSG,CTY_SIE_INDOOR,CTY_SIE,Groundwater,Groundwater,1600,0,"Added based on 2020 UWMP, used MWD_UGV instead of MWD_SGV"
+734,GWB_MSG,CTY_SIE_OUTDOOR,CTY_SIE,Groundwater,Groundwater,1600,0,"Added based on 2020 UWMP, used MWD_UGV instead of MWD_SGV"
+735,GWB_MSG,MWC_SSL_INDOOR,MWC_SSL,Groundwater,Groundwater,2700,0,updated based on 2020 UWMP
+736,GWB_MSG,MWC_SSL_OUTDOOR,MWC_SSL,Groundwater,Groundwater,2700,0,updated based on 2020 UWMP
+737,GWB_RAY,MWC_VWC_INDOOR,MWC_VWC,Groundwater,Groundwater,800,0,updated based on 2020 UWMP
+738,GWB_RAY,MWC_VWC_OUTDOOR,MWC_VWC,Groundwater,Groundwater,800,0,updated based on 2020 UWMP
+739,MWD_USG,CTY_MON_INDOOR,CTY_MON,Imported,Imported,5000,0,added from UWMP information 
+740,MWD_USG,CTY_MON_OUTDOOR,CTY_MON,Imported,Imported,5000,0,added from UWMP information 
+741,MWD_USG,CTY_SPA_INDOOR,CTY_SPA,Imported,Imported,2000,0,Added based on 2020 UWMP
+742,MWD_USG,CTY_SPA_OUTDOOR,CTY_SPA,Imported,Imported,2000,0,Added based on 2020 UWMP
+743,GWB_MSG,CWD_ROW_INDOOR,CWD_ROW,Groundwater,Groundwater,1800,0,"aggrement to source water from MSG, from 2020 UWMP"
+744,GWB_MSG,CWD_ROW_OUTDOOR,CWD_ROW,Groundwater,Groundwater,1800,0,"aggrement to source water from MSG, from 2020 UWMP"
+745,GWB_RAY,CWD_SGB_INDOOR,CWD_SGB,Groundwater,Groundwater,800,0,added based on 2020 UWMP
+746,GWB_RAY,CWD_SGB_OUTDOOR,CWD_SGB,Groundwater,Groundwater,800,0,added based on 2020 UWMP
+747,GWB_MSG,CWD_WVA_INDOOR,CWD_WVA,Groundwater,Groundwater,2000,0,"added based on 2020 UWMP, optional GW source for purchase"
+748,GWB_MSG,CWD_WVA_OUTDOOR,CWD_WVA,Groundwater,Groundwater,2000,0,"added based on 2020 UWMP, optional GW source for purchase"
+749,MWD_USR,IOU_SWS_WLM_OUTDOOR,IOU_SWS_WLM,Recycling,Reuse,0,0,new source for 2030 of 930 proposed
+750,MWD_USR,IOU_SGV_OUTDOOR,IOU_SGV,Reuse,Reuse,1500,0,added based on 2020 UWMP

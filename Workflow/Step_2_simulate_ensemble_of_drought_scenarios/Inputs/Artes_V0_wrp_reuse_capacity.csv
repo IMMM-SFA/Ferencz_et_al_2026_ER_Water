@@ -1,0 +1,16 @@
+﻿ID,Capacity,Capacity_updated,Consider_deletion,Notes
+WRP_BUR,829,275,0,275 acft/month from Burbank website 
+WRP_GDL,1841,1868,0,"1,868 acft/month based on UWMPs"
+WRP_LAC,18,0,1,"LAC doesn't connect to any reuse nodes, delete"
+WRP_LBP,921,560,0,560 acft/month based on LA county website
+WRP_LCP,921,560,0,560 acft/month based on UWMPs
+WRP_LIT,4309,3737,0,"3,737 acft/month based on LA county website"
+WRP_MMS,18,0,1,"MMS doesn’t have any link connections, delete "
+WRP_PON,1197,747,0,747 acft/month based on LA county website 
+WRP_SJC,9207,4485,0,"4,485 acft/month based on LA county website"
+WRP_SJP,9207,0,1,"delete, node recieves no inflows from any city and is a duplicate of San Jose Plant "
+WRP_SMR,28,28,0,"9207 capacity seems too high for small plant, only connection has annual limit of 560. Changing to 28 acft/month based on Plant website"
+WRP_TAP,1473,299,0,299 acft/month based on WRP website 
+WRP_TER,552,1121,0,"1,121 acft/month based in plant webpage "
+WRP_TIL,2946,2429,0,"2,429 acft/month, based on Wikipedia info"
+WRP_WHP,1381,654,0,654 acft/month based on LA county website

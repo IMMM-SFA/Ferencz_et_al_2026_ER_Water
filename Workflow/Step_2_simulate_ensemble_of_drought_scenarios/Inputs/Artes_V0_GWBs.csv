@@ -1,0 +1,14 @@
+﻿ID,Capacity,
+GWB_CEN,217367,
+GWB_CHI,15000,"only 12,515 in connections in Artes, changed to 15,000 from 145,000 as this is a shared resource"
+GWB_HOL,10000,"only 1,300 in connection in Artes, did not change as this is not a shared resource"
+GWB_MSG,240000,
+GWB_PUE,4400,"only 1,200 in Artes"
+GWB_RAY,30622,
+GWB_SFE,126505,100000
+GWB_SIX,12500,"check UWMPs access, watermaster 19,000, changes to 12500 as this is a shared resource"
+GWB_SMC,18000,"13,000 in connections in Artes"
+GWB_SPA,850,
+GWB_SYL,6810,
+GWB_VER,7150,
+GWB_WCS,64468,

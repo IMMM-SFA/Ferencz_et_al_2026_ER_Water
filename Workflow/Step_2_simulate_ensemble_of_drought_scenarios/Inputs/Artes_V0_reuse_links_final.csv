@@ -1,0 +1,58 @@
+﻿Origin_Node,End_Node,Root_Node,Type,Type_detailed,Capacity,Potential_Uses_2030,Consider_deletion,Demand_node,Notes
+WRP_LCP,CTY_BEL_OUTDOOR,CTY_BEL,Recycling,Reuse,47,47,0,1,
+WRP_BUR,CTY_BUR_OUTDOOR,CTY_BUR,Recycling,Reuse,3500,3500,0,1,"CTY_BUR reuse in WMP is 3327 acft/yr, 2020 UWMP suggests reuse is not in water supply dataset from CA (actual service area demand = reuse + supply data), 1000 AF used for thermoelectric cooling, 1200 landscapes, 230 golf course, 630 HVAC"
+WRP_LCP,CTY_CER_OUTDOOR,CTY_CER,Recycling,Reuse,2165,2500,0,1,"CTY_CER reuse in WMP is 2500 acft/yr, modified from 1870 in Artes, 2200 landscapes, 300 commercial "
+MWD_WCR,CTY_ELS_OUTDOOR,CTY_ELS,Recycling,Reuse,650,650,0,1,"majority for Chevron refinery (8600 AF), 521 irrigation, 29 golf, 85 geothermal, was 8615 in Artes, El Segundo demands do no include chevron refinery use "
+WRP_GDL,MWD_FTR,WRP_GDL,Recycling,Reuse,200,,0,,
+WRP_GDL,CTY_GDL_OUTDOOR,CTY_GDL,Recycling,Reuse,2000,4600,0,1,"CTY_GDL resuse in WMP is 2000 acft/yr, 500 golf, 380 landscape, 240 industrial, 150 other, 720 commercial, jump in 2030 due to commercial "
+WRP_LBP,MWD_WRD,WRP_LBP,Recycling,Reuse,4480,,0,,for sewater barrier 
+MWD_CBR,CTY_HUP_OUTDOOR,,Recycling,Reuse,44,52,0,1,"reuse is 300 acft/yr in UWMP, changed from 51 in Artes"
+WRP_SJC,CTY_IND_OUTDOOR,CTY_IND,Recycling,Reuse,950,950,0,1,
+WRP_LCP,MWD_CBR,WPR_LCP,Recycling,Reuse,23000,,0,,
+WRP_LIT,MWD_WCR,WRP_LIT,Recycling,Reuse,41988,,0,,Changed to 44844 from 41988 based on report monthly capacity for WRP_LIT
+MWD_WCR,CTY_ING_OUTDOOR,CTY_ING,Recycling,Reuse,800,800,0,1,changed to 800 based on UWMP from 683
+WRP_GDL,CTY_LAX_OUTDOOR,CTY_LAX,Recycling,Reuse,1930,1939,0,1,
+WRP_TIL,CTY_LAX_OUTDOOR,CTY_LAX,Recycling,Reuse,33271,47951,0,1,"33000 total in 2019/2020, 2,700 landscape, 2,900 golf, 950 industrial, 27,000 wetlands/wild habitat,  13,000 increase in 2030 ifrom ndustrial, rest golf/landscape "
+MWD_WCR,CTY_LAX_OUTDOOR,CTY_LAX,Recycling,Reuse,608,608,0,1,check LAX connections
+WRP_LBP,CTY_LBH_OUTDOOR,CTY_LBH,Recycling,Reuse,3400,4180,0,1,"golf course and other outdoor makeup majority, 530 energy"
+WRP_SJC,MWD_CBR,WRP_SJC,Recycling,Reuse,320,,0,,
+WRP_SJC,MWD_USR,WRP_SJC,Recycling,Reuse,1188,,0,,
+WRP_SJC,MWD_WRD,WRP_SJC,Recycling,Reuse,22000,,0,,"Artes had 55,600 but MWD_WRD only served INF_CSB demand of 22,000 acft/year, changed to 22,000"
+WRP_LCP,CTY_LKW_OUTDOOR,CTY_LKW,Recycling,Reuse,450,450,0,1,450 in UWMP. Was 400 changed to 450
+WRP_TAP,MWD_LVR,WRP_TAP,Recycling,Reuse,3588,,0,,"revised to 3588 based on reported treatment plant capacity, Artes value was 4522"
+WRP_TER,MWD_WRD,WRP_TER,Recycling,Reuse,3000,,0,,
+MWD_WCR,CTY_MBC_OUTDOOR,CTY_MBC,Recycling,Reuse,280,280,0,1,
+WRP_WHP,MWD_WRD,WRP_WHP,Recycling,Reuse,6870,,0,,
+WRP_WHP,MWD_USR,WRP_WHP,Recycling,Reuse,1550,,0,,
+MWD_WCR,GWB_WCS,GWB_WCS,Recharge,Coastal_barrier_wells,20480,,0,,
+MWD_CBR,CTY_NOR_OUTDOOR,,Recycling,Reuse,82,90,0,1,reuse is 82 acft/yr
+MWD_CBR,CTY_PAR_OUTDOOR,,Recycling,Reuse,312,338,0,1,reuse is 312 acft/yr
+WRP_GDL,CTY_PAS_OUTDOOR,CTY_PAS,Recycling,Reuse,0,0,1,1,"reuse 0 acft/yr in 2020 UWMP, was 10000 in Artes "
+MWD_CBR,CTY_PCR_OUTDOOR,,Recycling,Reuse,74,85,0,1,
+WRP_PON,CTY_PNM_OUTDOOR,CTY_PNM,Recycling,Reuse,1700,2350,0,1,all but 10 AF for irrigation
+MWD_WCR,INF_CSB,,Recycling,Reuse,13812,,0,,no topology update needed
+MWD_CBR,CTY_SFS_OUTDOOR,,Recycling,Reuse,850,900,0,1,reuse is 850 acft/yr
+MWD_CBR,CTY_SGT_OUTDOOR,,Recycling,Reuse,200,200,0,1,"reuse is 200 acft/yr, changed from 113 in Artes"
+WRP_SMR,CTY_SMC_OUTDOOR,CTY_SMC,Recycling,Reuse,560,560,0,1,
+MWD_WCR,CTY_TOR_OUTDOOR,CTY_TOR,Recycling,Reuse,400,1150,0,1,"changed to 400 based on UWMP was 6433 in Artes, the majority of recycled water goes to oil and gas and is not part of potable water demands for the City, 5000 AF for industrial, 400 for irrigation"
+MWD_CBR,CTY_VER_OUTDOOR,,Recycling,Reuse,800,800,0,1,reuse is 800 acft/yr
+MWD_WCR,PRV_WMI_INDOOR,PRV_WMI,Recycling,Reuse,15535,,0,,only source is reuse
+MWD_WCR,PRV_WMI_OUTDOOR,PRV_WMI,Recycling,Reuse,15535,,0,,only source is reuse
+WRP_SJC,CWD_ROW_OUTDOOR,CWD_ROW,Recycling,Reuse,1100,1400,0,1,
+WRP_PON,CWD_WVA_OUTDOOR,CWD_WVA,Recycling,Reuse,1973,3489,0,1,"changed to 1,973 from 2500 based on UWMP, 1740 landscape, 232 golf "
+MWD_WCR,IOU_CWS_DOM_OUTDOOR,IOU_CWS_DOM,Recycling,Reuse,140,290,0,1," 6000 in Artes, changed to 4587 based on UWMP, 4500 industrial, 140 for irrigation"
+MWD_CBR,IOU_CWS_ELA_OUTDOOR,,Recycling,Reuse,35,35,0,1,
+MWD_WCR,IOU_CWS_HAW_OUTDOOR,IOU_CWS_HAW,Recycling,Reuse,100,100,0,1,"URWMP cites that West Coast recylcing is sourced from Hyperion, routed to Edward little, then to WCR. THESE links exist in Artes so no new links needed"
+MWD_WCR,IOU_CWS_HR_OUTDOOR,IOU_CWS_HR,Recycling,Reuse,200,200,0,1,
+MWD_WCR,IOU_CWS_PV_OUTDOOR,IOU_CWS_PV,Recycling,Reuse,200,200,0,1,
+MWD_CBR,IOU_GS_ART_OUTDOOR,,Recycling,Reuse,100,100,0,1,reuse is 100 acft/yr
+MWD_CBR,IOU_GS_BBG_OUTDOOR,,Recycling,Reuse,122,140,0,1,reuse is 121.8 acft/yr
+MWD_CBR,IOU_GS_NOR_OUTDOOR,,Recycling,Reuse,160,200,0,1,reuse is 163.2 acft/yr
+MWD_USR,IOU_GS_SSG_OUTDOOR,,Recycling,Reuse,30,30,0,1,
+MWD_WCR,IOU_GS_SW_OUTDOOR,IOU_GS_SW,Recycling,Reuse,500,500,0,1,
+MWD_USR,IOU_SWS_SJH_OUTDOOR,,Recycling,Reuse,700,700,0,1,
+MWD_USR,IOU_SWS_WLM_OUTDOOR,,Recycling,Reuse,0,930,1,1,"new, no reuse in 2020"
+MWD_CBR,MWC_BLS_OUTDOOR,,Recycling,Reuse,123,123,0,1,
+MWD_LVR,MWD_LVI_OUTDOOR,MWD_LVI,Recycling,Reuse,4700,4700,0,1,"confirmed not accounted for in service area demands, all used for landscape irrigation"
+MWD_CBR,CTY_DOW_OUTDOOR,,Recycling,Reuse,650,770,,,new
+MWD_USR,IOU_SGV_OUTDOOR,,Recycling,Reuse,1500,2100,0,1,new
