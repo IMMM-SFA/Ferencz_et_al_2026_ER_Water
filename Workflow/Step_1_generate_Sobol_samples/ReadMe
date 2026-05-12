@@ -1,1 +1,5 @@
 This step generates the Sobol samples for the simulated sensitivity analysis results. 
+input = SALib_parameter_ranges.csv. 
+output = parameter values for Sobol sensitivity test in .csv files (e.g., param_values_13312_sobol_HPC.csv)
+         rows = scenarios. Each row is a scenario that will be modeled as a 3-year drought where parameter values in pyartes_pyomo_hpc_SR.py are modified 
+         columns = parameter names
