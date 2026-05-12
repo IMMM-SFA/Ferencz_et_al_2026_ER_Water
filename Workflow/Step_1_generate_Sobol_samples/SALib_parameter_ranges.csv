@@ -1,0 +1,13 @@
+﻿Parameter,Lower,Upper,Notes 
+imports_met,0.428,1,"baseline is 700,000 acft "
+imports_laa,0.1,1,"baseline is 100,000 acft"
+gw_yield_other,0.5,1,"baseline is 105,000 acft"
+gw_cen,0.5,1,"baseline is 217,367 acft"
+gw_wcb,0.43,1,"baseline is 64,500 acft"
+gw_sgb,0.5,1,"baseline is 240,000 acft"
+gw_sf,0.52,0.795,"baseline is 126,500 acft "
+reuse,0,0.5,baseline is reuse capacity in Artes
+initial_storage,0.33,0.66,"baseline is full capacity (~900,000) for Castiac, Diamond Valley, and Mathews"
+dummy,0.5,1,dummy variable not used in model 
+indoor_eff,0,1,ranges from no improvement up to all providers meeting indoor res target
+outdoor_eff,0,1,ranges from no improvement up to all providers meeting outdoor landscape target
