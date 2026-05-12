@@ -7,8 +7,6 @@ import numpy as np
 
 os.chdir("C:/Users/fere556/OneDrive - PNNL/Documents/Artes/Artes_paper/LA_Sensitivity_Analysis_Repo/GitHub/Step_2_simulate_ensemble")
 
-#os.chdir("C:/Users/fere556/Desktop/HPC_testing/Artes_parser_test/")
-
 ensemble_name = "output_sobol_13312"
 scenarios_file = "params_values_13312_sobol.csv"
 
