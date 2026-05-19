@@ -3,15 +3,13 @@
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
-from matplotlib.ticker import (MultipleLocator, AutoMinorLocator)
 import os 
 import geopandas
 import contextily as cx
-import fiona
 
 #%% Import Artes data 
 
-os.chdir("C:/Users/fere556/OneDrive - PNNL/Documents/Artes/artes-master/geo")
+os.chdir("Path to Figure_3 files")
 
 LAC_bounds = geopandas.read_file("LAC_region_boundary.shp") 
 Node_df = pd.read_csv("Artes_nodes_GIS.csv")
