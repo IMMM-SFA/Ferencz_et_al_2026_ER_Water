@@ -25,7 +25,7 @@ sp = ProblemSpec({'num_vars': len(parameter_df.Parameter),
 
 column_names = list(parameter_df.Parameter.values)
 sample_base = 2*12+2 # 2*D+2 for second order Sobol inidices, D = # of parameters
-samples = [4, 8, 16, 32, 64, 128, 256, 512] # sample size of 512 used for 13,312 scenario ensemble, ensemble size = n samples * sample_base
+samples = [4, 8, 16, 32, 64, 128, 256, 512] # Enter one or more int in the samples list. A sample size of 512 used for 13,312 scenario ensemble, ensemble size = n samples * sample_base
 sample_distributions = pd.DataFrame(data = np.zeros((len(samples), len(column_names))),
                                     columns = column_names, index = samples) # records number unique parameter samples for each ensemble
 
