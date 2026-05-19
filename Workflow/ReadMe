@@ -5,9 +5,9 @@ shortage to train and test the MLP model, but the same approach could be used fo
 or outdoor shortage. 
 
 Inputs: 
+-Sobol scenarios from Step 1 (.csv of 13,312 scenarios). These are the predictors (i.e., the input features).
 -Aggregated model outputs from Step 3 (.csv for 13,312 scenario results). These are the 
-  targets --> given a set of parameter multipliers, what is the resulting shortage?
--Sobol scenarios from Step 1. These are the predictors.
+training targets --> given a set of parameter multipliers (input features), what is the resulting shortage?
 
 Outputs:
 The script generates folders to store the synthetic 
