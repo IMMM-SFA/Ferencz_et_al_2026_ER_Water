@@ -1,1 +1,4 @@
+This step generates aggregated ensemble results for total and worst annual water shortage for each water demand node. 
 
+Inputs: The user will set the output directory to the folder containing the ensemble ouputs. 
+Outputs: The script will generate .csv files for indoor, outdoor, and total water shortage. 
