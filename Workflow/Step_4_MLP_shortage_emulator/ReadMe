@@ -14,5 +14,6 @@ water shortages for MWD wholesale regions (e.g., MWD_Central) to train MLP model
 Outputs:
 The script generates folders to store the synthetic (MLP-predicted) shortages, 
 associated parameter multiplier scenarios, summary meterics of MLP performance 
-for each provider, MWD wholesale region, and the entire region. 
-
+for each provider, MWD wholesale region, and the entire region. And optionally
+predicted vs true modeled shortages for any provider, wholesale region, or 
+the entire region. 
