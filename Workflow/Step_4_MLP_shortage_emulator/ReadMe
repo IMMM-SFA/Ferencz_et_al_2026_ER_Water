@@ -12,5 +12,7 @@ training targets --> given a set of parameter multipliers (input features), what
 water shortages for MWD wholesale regions (e.g., MWD_Central) to train MLP model. 
 
 Outputs:
-The script generates folders to store the synthetic 
+The script generates folders to store the synthetic (MLP-predicted) shortages, 
+associated parameter multiplier scenarios, summary meterics of MLP performance 
+for each provider, MWD wholesale region, and the entire region. 
 
