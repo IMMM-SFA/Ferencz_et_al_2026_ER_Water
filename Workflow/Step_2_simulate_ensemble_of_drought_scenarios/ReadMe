@@ -2,7 +2,8 @@ This step generates the files needed to run the 13,312 scenario ensemble of drou
 
 To run the large ensemble we distributed the ensemble accross 60 cores on a high performance computing node. 
 The "batch_job_script.py" script will generate multiple driver and q scripts to deploy multiple separate
-jobs (1 on each core), each assigned a subset of the ensemble. 
+jobs (1 on each core), each assigned a subset of the ensemble. The batch_job_script will also create a 
+q_batch.sl file that will submit all of the jobs (driver_batch.sh and q.sl file pairs) with one command line call. 
 
 The Inputs folder contains the required inputs for the pyartes model. 
 The user needs to create an Output folder to save the model outputs. 
