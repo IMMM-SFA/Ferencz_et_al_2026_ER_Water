@@ -1,1 +1,13 @@
+This step trains a multi-layer perceptron (MLP) neural network that predicts demand node 
+water shortage for a given set parameter multiplier values. The model uses the aggregated 
+shortage data from Step 3 as the training and testing data. For the paper we used total
+shortage to train and test the MLP model, but the same approach could be used for indoor
+or outdoor shortage. 
 
+Inputs: 
+-Aggregated model outputs from Step 3 (.csv for 13,312 scenario results). These are the 
+  targets --> given a set of parameter multipliers, what is the resulting shortage?
+-Sobol scenarios from Step 1. These are the predictors.
+
+Outputs:
+The script generates folders to store the synthetic 
