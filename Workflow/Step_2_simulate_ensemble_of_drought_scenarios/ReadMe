@@ -1,4 +1,4 @@
-This step generates the files needed to run the 13,312 scenario ensemble of drought scenarios. 
+This step produces the results for the 13,312 member ensemble of drought scenarios. 
 
 To run the large scenario ensemble we distributed the ensemble accross 60 cores on a high performance computing node. 
 The "batch_job_script.py" script will generate multiple driver and q scripts to deploy multiple separate
