@@ -12,7 +12,8 @@ Workflow:
 -Download Inputs folder and place in model directory
 -Create Outputs folder and place in model directory
 -If running scenarios in parallel. First generate batch and q scripts using "batch_job_script.py."
--If running locally Call pyaretes_pyomo_hpc_SR.py using "python pyartes_pyomo_hpc_SR.py -i <path to input files> -o <path to output folder> -l <path to drought scenario file> -s"
+-If running locally Call pyaretes_pyomo_hpc_SR.py using:
+    "python pyartes_pyomo_hpc_SR.py -i <path to input files> -o <path to output folder> -l <path to drought scenario file> -s"
     
     '-i', '--input', 'path to input directory'
     '-o', '--output','path to output directory'
