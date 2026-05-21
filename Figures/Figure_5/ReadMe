@@ -5,7 +5,7 @@ ADD URL
 Specific scenarios of interest can be filtered using the Sobol parameter dataset (SALib_parameter_ranges.csv)
 in the Figure_5_files folder. 
 
-The row indexes (0 indexed) for Figure 5 subplots are: 
+Row indexes (0 indexed) for Figure 5 subplots are: 
 a) 13
 b) 430
 c) 364
