@@ -4,7 +4,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import geopandas
 
-os.chdir("C:/Users/fere556/OneDrive - PNNL/Documents/Artes/Artes_paper/LA_Sensitivity_Analysis_Repo/GitHub/Figures/Figure_2/Files")
+os.chdir("Path to Figure_2_files")
 provider_groups = pd.read_csv("Provider_MWD_groupings.csv")
 demand_indoor_artes = pd.read_csv("Artes_V0_indoor_demand_baseline.csv", index_col = 0)
 demand_outdoor_artes = pd.read_csv("Artes_V0_outdoor_demand_baseline_adjusted_for_reuse.csv", index_col = 0)
