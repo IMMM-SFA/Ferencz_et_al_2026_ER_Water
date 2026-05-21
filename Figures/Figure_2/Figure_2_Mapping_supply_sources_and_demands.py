@@ -41,9 +41,6 @@ provider_groups['ratio_Supply_Demand'] = provider_groups.total_supply/provider_g
 provider_groups['fraction_outdoor_Demand'] = provider_groups.demand_outdoor/provider_groups.demand_total
 
 #%% Mapping 
-
-os.chdir('C:/Users/fere556/OneDrive - PNNL/Documents/Artes/Artes_redevelopment/')
-
 service_bnds = geopandas.read_file("Artes_service_regions_updated.shp")  
 service_bnds = service_bnds.to_crs(epsg=3857) # convert CRS to basemap CRS 
 
