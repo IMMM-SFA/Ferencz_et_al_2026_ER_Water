@@ -7,7 +7,7 @@ import contextily as cx
 
 #%% Import Artes data 
 
-os.chdir("C:/Users/fere556/OneDrive - PNNL/Documents/Artes/Artes_paper/LA_Sensitivity_Analysis_Repo/GitHub/Figures/Figure_3/Figure_3_files")
+os.chdir("Path to Figure_3_files")
 
 LAC_bounds = geopandas.read_file("LAC_region_boundary.shp") 
 Node_df = pd.read_csv("Artes_nodes_GIS.csv")
