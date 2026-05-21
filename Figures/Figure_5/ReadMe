@@ -1,7 +1,9 @@
 The plotting script maps shortage fraction results (either worst annual or average annual depending on dataset) 
 for any row of the aggregated results from the 13,312 simulated ensemble, available in the MSDLive data repository:
 ADD URL
-Specific scenarios of interest can be filtered using the Sobol parameter dataset in the Figure_5_files folder (SALib_parameter_ranges.csv). 
+
+Specific scenarios of interest can be filtered using the Sobol parameter dataset (SALib_parameter_ranges.csv)
+in the Figure_5_files folder. 
 
 The row indexes (0 indexed) for Figure 5 subplots are: 
 a) 13
