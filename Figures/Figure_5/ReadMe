@@ -1,8 +1,8 @@
 The plotting script maps shortage fraction results (either worst annual or average annual depending on dataset) for any row 
 of the 13,312 simulated ensemble. Specific scenarios of interest can be filtered using the Sobol parameter dataset. 
 
-The row indexes for Figure 5 subplots are: 
-a) 
-b)
-c)
-d)
+The row indexes (0 indexed) for Figure 5 subplots are: 
+a) 13
+b) 430
+c) 364
+d) 551
