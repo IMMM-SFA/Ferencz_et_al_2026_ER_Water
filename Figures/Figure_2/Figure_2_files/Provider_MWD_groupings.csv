@@ -1,0 +1,101 @@
+﻿Demand_node,Full_name,MWD_region,Imports,GW,Reuse,Local Surface
+CTY_ALH,City Of Alhambra,USG MWD,3000,8812,0,0
+CTY_ARC,City Of Arcadia,USG MWD,0,14005,0,0
+CTY_AZU,City Of Azusa,USG MWD,0,16487,0,9000
+CTY_BEL,Bellflower Municipal Water System,Central Basin MWD,0,1380,64,0
+CTY_BHL,City Of Beverly Hills,MWD,13380,1311,0,0
+CTY_BUR,City Of Burbank,MWD,16336,12759,5160,0
+CTY_CER,City Of Cerritos,Central Basin MWD,1150,4680,1870,0
+CTY_COV,City Of Covina,Three Valleys MWD,3000,3000,0,0
+CTY_CPT,City Of Compton,MWD,5058,7400,0,0
+CTY_DOW,City Of Downey,Central Basin MWD,10000,16553,710,0
+CTY_ELM,City Of El Monte,USG MWD,0,2784,0,0
+CTY_ELS,City Of El Segundo,West Basin MWD,9929,0,8615,0
+CTY_GDL,City Of Glendale,MWD,26221,30942,1765,0
+CTY_GDR,City Of Glendora,Three Valleys MWD,2275,9428,0,0
+CTY_HUP,City Of Huntington Park,Central Basin MWD,1800,3853,51,0
+CTY_IND,City Of Industry,Three Valleys MWD,0,1800,950,0
+CTY_ING,City Of Inglewood,West Basin MWD,8425,4450,849,0
+CTY_LAV,City Of La Verne,Three Valleys MWD,7029,1330,0,0
+CTY_LAX,City Of Los Angeles,MWD,600000,109000,36312,0
+CTY_LBH,City Of Long Beach,MWD,39471,32692,6556,0
+CTY_LKW,City Of Lakewood,Central Basin MWD,0,9432,400,0
+CTY_LOM,City Of Lomita,West Basin MWD,3000,1352,0,0
+CTY_LYN,City Of Lynwood,Central Basin MWD,9100,8200,0,0
+CTY_MBC,City Of Manhattan Beach,West Basin MWD,5670,1131,301,0
+CTY_MON,City Of Monrovia,USG MWD,5000,7214,0,0
+CTY_MTP,City Of Monterey Park,USG MWD,0,9000,0,0
+CTY_NOR,City Of Norwalk,Central Basin MWD,1700,2273,102,0
+CTY_PAR,City Of Paramount,Central Basin MWD,3500,5883,354,0
+CTY_PAS,City Of Pasadena,MWD,21180,12807,0,2380
+CTY_PCR,City Of Pico Rivera,Central Basin MWD,0,5579,87,0
+CTY_PNM,City Of Pomona,Three Valleys MWD,7000,15104,1700,0
+CTY_SFE,City Of San Fernando,MWD,630,4209,0,0
+CTY_SFS,City Of Santa Fe Springs,Central Basin MWD,5300,4035,1000,0
+CTY_SGT,City Of South Gate,Central Basin MWD,0,11183,113,0
+CTY_SIE,City Of Sierra Madre,USG MWD,2000,3364,0,228
+CTY_SIG,City Of Signal Hill,Central Basin MWD,2000,2022,0,0
+CTY_SMC,City Of Santa Monica,MWD,11515,12400,560,0
+CTY_SPA,City Of South Pasadena,USG MWD,2000,3567,0,0
+CTY_TOR,City Of Torrance,MWD,19204,5639,6433,0
+CTY_VER,City Of Vernon,Central Basin MWD,2100,7539,885,0
+CTY_WHT,City Of Whittier,Central Basin MWD,0,13000,69,0
+CWD_CRE,Crescenta Valley Cwd,Foothill MWD,2532,3294,0,0
+CWD_LA2,L A County Waterworks Dist #29,West Basin MWD,13266,0,0,0
+CWD_LAH,La Habra Heights Cwd,Central Basin MWD,260,2596,0,0
+CWD_LAP,La Puente Valley Cwd,USG MWD,0,1130,0,0
+CWD_ORC,Orchard Dale Water District,Central Basin MWD,100,2000,0,0
+CWD_PIC,Pico Cwd,Central Basin MWD,0,3624,50,0
+CWD_ROW,Rowland Cwd,Three Valleys MWD,14741,2100,106,0
+CWD_SAV,Sativa Cwd,Central Basin MWD,0,830,0,0
+CWD_SGB,San Gabriel Cwd,USG MWD,0,6195,0,0
+CWD_VAL,Valley Cwd,USG MWD,3000,6800,0,0
+CWD_WVA,Walnut Valley Water District,Three Valleys MWD,26057,906,2500,0
+IOU_CAW_BH,Cal-Am Water Co. - Baldwin Hills,West Basin MWD,2400,2400,0,0
+IOU_CAW_DUR,Cal-Am Water Co. - Duarte,USG MWD,6300,0,0,1672
+IOU_CAW_SM,Cal-Am Water Co. - San Marino,USG MWD,3988,9600,0,0
+IOU_CWS_DOM,Cal  Water Servic Co. - Dominquez,West Basin MWD,28000,18000,6000,0
+IOU_CWS_ELA,Cal  Water Servic Co. - East LA,Central Basin MWD,10000,11774,40,0
+IOU_CWS_HAW,Cal  Water Servic Co. - Hawthorne,West Basin MWD,4000,2000,100,0
+IOU_CWS_HR,Cal  Water Servic Co. - Hermosa Redondo,West Basin MWD,12000,4070,200,0
+IOU_CWS_PV,Cal  Water Servic Co. - Palos Verdes,West Basin MWD,20000,0,200,0
+IOU_GS_ART,Golden State Water Co. - Artesia,Central Basin MWD,1000,5000,110,0
+IOU_GS_BBG,Golden State Water Co. - Bell-Bell Gardens,Central Basin MWD,500,4500,140,0
+IOU_GS_CC,Golden State Water Co. - Culver City,West Basin MWD,10000,500,0,0
+IOU_GS_CLA,Golden State Water Co. - Claremont,Three Valleys MWD,6500,7800,0,0
+IOU_GS_FG,Golden State Water Co. - Florence-Graham,Central Basin MWD,1000,5000,0,0
+IOU_GS_NOR,Golden State Water Co. - Norwalk,Central Basin MWD,2500,5000,200,0
+IOU_GS_SAR,Golden State Water Co. - South Arcadia,USG MWD,0,4000,0,0
+IOU_GS_SD,Golden State Water Co. - San Dimas,Three Valleys MWD,10000,6000,200,0
+IOU_GS_SSG,Golden State Water Co. - South San Gabriel,USG MWD,3000,4500,30,0
+IOU_GS_SW,Golden State Water Co. - Southwest,West Basin MWD,28100,12500,500,0
+IOU_PWC,Park Water Company,Central Basin MWD,12800,0,0,362
+IOU_SGV,San Gabriel Valley Water Company,USG MWD,39646,10000,2547,0
+IOU_SWS_SJH,Suburban Water Systems - San Jose Hills,USG MWD,12300,20000,1400,0
+IOU_SWS_WLM,Suburban Water Systems - Whittier/La Miranda ,Central Basin MWD,8000,17500,0,0
+IRR_KIN,Kinneloa Irrigation District,Foothill MWD,0,500,0,0
+IRR_LAC,La Canada Irrigation District,Foothill MWD,3163,100,0,0
+IRR_SMT,South Montebello ,Central Basin MWD,0,1270,0,0
+MWC_AMA,Amarillo Mutual Water Company,USG MWD,0,400,0,0
+MWC_BLS,Bellflower-Somerset Mutual Water Company,Central Basin MWD,2350,5000,123,0
+MWC_CDM,California Domestic Water Company,USG MWD,0,12069,0,0
+MWC_COV,Covina Irrigating Company,USG MWD,0,6578,6983,0
+MWC_LAV,Lincoln Avenue Water Company,Foothill MWD,2208,2069,0,0
+MWC_LFL,Las Flores Water Company,Foothill MWD,780,0,0,0
+MWC_MA1,Maywood Mutual Company #1,Central Basin MWD,0,741,0,0
+MWC_MCR,Mesa Crest Water Company,Foothill MWD,800,0,0,0
+MWC_MON,Montebello Land And Water Company,Central Basin MWD,0,4000,0,0
+MWC_RUB,Rubio Canon Land And Water Association,Foothill MWD,730,2000,0,0
+MWC_SSL,Sunny Slope Mutual Water Company,USG MWD,0,4300,0,0
+MWC_VHT,Valencia Heights Water Company,Three Valleys MWD,0,6578,0,6983
+MWC_VWC,Valley Water Company,Foothill MWD,3300,800,0,0
+MWD_LVI,Las Virgenes MWD,MWD,21087,0,4522,0
+PRV_CEN,Central Basin Private Entities,Central Basin MWD,0,3987,0,0
+PRV_COC,Central Basin Oil And Chemical Companies,Central Basin MWD,0,306,0,0
+PRV_MOC,MSG Basin Oil And Chemical Companies,USG MWD,0,313,0,0
+PRV_MSG,Man San Gabriel Private Pumpers,USG MWD,0,13000,0,0
+PRV_RAY,Raymond Basin Private Pumpers,Foothill MWD,0,463,0,0
+PRV_SGR,San Gabriel River Water Commission,USG MWD,0,0,0,4000
+PRV_WCS,West Coast Basin Private Entities,West Basin MWD,0,5500,0,0
+PRV_WMI,WC Basin Municipal and Industrial,West Basin MWD,0,0,15500,0
+PRV_WOC,West Basin Oil And Chemical Companies,West Basin MWD,0,8200,0,0
