@@ -8,18 +8,20 @@
 
 # Ferencz-etal_2026_ER:Water
 
-**your Paper Title here (once published, include a link to the text)**
+**Stress Testing Urban Water Security: A Sensitivity‑Based Evaluation of Drivers Water Shortage in the Los Angeles Region During Severe Drought**
 
-Stephen Ferencz<sup>1\*</sup>, First Last<sup>1</sup>,  and First Last<sup>1, 2</sup>
+Stephen B. Ferencz<sup>1\*</sup>, Chris R. Vernon Last<sup>1</sup>,  Erik Porse<sup>2</sup>, Patrick Reed <sup>3<sup>, and Jim Yoon<sup>1, 
 
 <sup>1 </sup>Pacific Northwest National Laboratory, Richland, WA, USA.
 
-<sup>2 </sup> Institute for Energy Analysis, Oak Ridge Associated Universities, Washington, DC, USA
+<sup>2 </sup> California Department of Water Resources 
+
+<sup>2 </sup> School of Civil and Environmental Engineering, Cornell University 
 
 \* corresponding author:  stephen.ferencz@pnnl.gov
 
 ## Abstract
-_your abstract here_
+Uncertainties in future water supply and demand pose major challenges for urban water systems’ ability to understand and manage risk. In regions with shared supply sources, hierarchical governance, and diverse supply portfolios, these uncertainties compound, making it difficult to characterize vulnerabilities and identify underlying drivers of water shortage risk. With multiple shared supply sources and a highly fragmented physical and institutional supply system, Los Angeles County (LAC) exemplifies these challenges. We adapt the Artes regional water supply optimization model for LAC to perform a variance‑based Sobol global sensitivity analysis to quantify how 11 uncertain supply and demand parameters influence water shortages across more than 90 water providers during severe multi‑year drought. Results show that Metropolitan Water District (MWD) imports are the most dominant single factor, even for many providers without a direct MWD connection. Groundwater yields and antecedent reservoir storage also have broad regional influence, while near-term efforts related to reuse and residential efficiency are less influential. High total‑order Sobol indices reveal that nonlinear parameter interactions, rather than single factors, drive system‑level vulnerability. Scenario analysis shows a sharp increase in shortage frequency when MWD imports fall below ~500,000 acre‑feet annually but also shows that even modest groundwater availability thresholds can substantially reduce risk. This study provides a framework for stress testing complex urban water systems to generate actionable insights into the key parameters that drive risk and inform more targeted and effective drought planning and management efforts.
 
 ## Journal reference
 _your journal reference_
