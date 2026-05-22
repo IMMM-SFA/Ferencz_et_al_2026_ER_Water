@@ -40,7 +40,7 @@ Ferencz, S., Yoon, J., & Vernon, C. (2026). Sensitivity Analysis of Drivers Wate
 | Model | Version | Repository Link | Usage |
 |-------|---------|-----------------|-------|
 | IPOPT   | 3.11.1  | https://github.com/coin-or/Ipopt | optimization solver | 
-| Pyomo   | version | https://www.pyomo.org/ | optimization programming |
+| Pyomo   | 6.4.4 | https://www.pyomo.org/ | optimization programming |
 | SALIb   | 1.4.7   | https://github.com/SALib/SALib | Sobol sensitivity sampling and analysis |
 | scikit-learn | 1.0.2   | https://scikit-learn.org | multilayer perceptron shortage emulator |
 
