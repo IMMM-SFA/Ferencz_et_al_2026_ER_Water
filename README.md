@@ -10,7 +10,7 @@
 
 **Stress Testing Urban Water Security: A Sensitivity‑Based Evaluation of Drivers Water Shortage in the Los Angeles Region During Severe Drought**
 
-Stephen B. Ferencz<sup>1\*</sup>, Chris R. Vernon Last<sup>1</sup>,  Erik Porse<sup>2</sup>, Patrick Reed <sup>3<sup>, and Jim Yoon<sup>1, 
+Stephen B. Ferencz<sup>1\*</sup>, Chris R. Vernon Last<sup>1</sup>,  Erik Porse<sup>2</sup>, Patrick Reed <sup>3</sup>, and Jim Yoon<sup>1, 
 
 <sup>1 </sup>Pacific Northwest National Laboratory, Richland, WA, USA.
 
