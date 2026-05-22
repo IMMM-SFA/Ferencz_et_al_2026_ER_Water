@@ -27,10 +27,10 @@ References for each minted software release for all code involved.
 ## Data reference
 
 ### Input data
-- This work adapts the [Artes](https://github.com/erikporse/artes) optimization model -- a network flow based optimization model designed for Gurobi -- using Pyomo and IPOPT. Our model relies on much of the underlying model structure and water system attribute inputs (topology of water system connections and their link capacities) used by Artes. 
-- Water service provider monthly water use data. Used to update monthly demands for service regions. https://www.waterboards.ca.gov/water_issues/programs/conservation_portal/conservation_reporting.html
-- Topology for added service providers sourced from Urban Water Management Plans. https://wuedata.water.ca.gov/uwmp_plans.asp?cmd=2020
-- Geospatial data for water service boundaries. California Drinking Water System Area Boundary Layer (SABL). https://www.arcgis.com/home/item.html?id=b2b64ea93a954b7caab0f0999f47e019
+- This work adapts the [Artes](https://github.com/erikporse/artes) optimization model -- a network flow based optimization model designed for Gurobi -- using Pyomo and IPOPT. Our model relies on much of the underlying model structure and water system attribute inputs (topology of water system connections and their link capacities) used by Artes. Detailed description of the model we use for this experiment is provided in the Supplement to the paper. 
+- Water service provider monthly [water supply data](https://www.waterboards.ca.gov/water_issues/programs/conservation_portal/conservation_reporting.html). Used to update monthly demands for service regions. Supply data for 2017-2021 is used to derive average monthly demands for water providers. Indoor and outdoor components were informed by the baseline outdoor demand from [Ferencz et al. 2025](https://data.msdlive.org/records/s581n-tye84). 
+- Topology for added service providers sourced from [Urban Water Management Plans](https://wuedata.water.ca.gov/uwmp_plans.asp?cmd=2020). 
+- Geospatial data for water service boundaries. [California Drinking Water System Area Boundary Layer (SABL)](https://www.arcgis.com/home/item.html?id=b2b64ea93a954b7caab0f0999f47e019). 
 
 ### Output data
 All simulation outputs are available at:
