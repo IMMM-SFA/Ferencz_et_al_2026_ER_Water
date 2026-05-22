@@ -2,7 +2,6 @@
 
 <!-- Get rid of the metarepo instructions (below this) once you're done. -->
 
-# metarepo
 ## [Check out the website for instructions](https://immm-sfa.github.io/metarepo)
 `metarepo` is short for meta-repository, a GitHub repository that contains instructions to reproduce results in a published work. This repo is a template for creating your own metarepo.
 
@@ -45,12 +44,7 @@ Human, I.M. (2021). My input dataset name [Data set]. DataHub. https://doi.org/s
 _your input data references here_
 
 ### Output data
-Reference for each minted data source for your output data.  For example:
-
-Human, I.M. (2021). My output dataset name [Data set]. DataHub. https://doi.org/some-doi-number
-
-_your output data references here_
-
+Ferencz, S., Yoon, J., & Vernon, C. (2026). Sensitivity Analysis of Drivers Water Shortage in the Los Angeles Region During Drought (Version v1) [Data set]. MSD-LIVE Data Repository. https://doi.org/10.57931/3363338
 
 ## Contributing modeling software
 | Model | Version | Repository Link | DOI |
