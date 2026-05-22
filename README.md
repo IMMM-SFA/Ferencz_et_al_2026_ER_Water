@@ -34,6 +34,7 @@ Human, I.M. (2021). My input dataset name [Data set]. DataHub. https://doi.org/s
 _your input data references here_
 
 ### Output data
+All simulation outputs are available at:
 Ferencz, S., Yoon, J., & Vernon, C. (2026). Sensitivity Analysis of Drivers Water Shortage in the Los Angeles Region During Drought (Version v1) [Data set]. MSD-LIVE Data Repository. https://doi.org/10.57931/3363338
 
 ## Contributing modeling software
