@@ -27,7 +27,7 @@ References for each minted software release for all code involved.
 ## Data reference
 
 ### Input data
-- This work adapts the Artes optimization model. Node and link based linear programming model designed for Gurobi Optimizer. This work builds off of the Artes model, and uses much of the underlying model structure and water system attribute inputs (topology of water system connections and their link capacities). https://github.com/erikporse/artes
+- This work adapts the [Artes](https://github.com/erikporse/artes) optimization model -- a network flow based optimization model designed for Gurobi -- using Pyomo and IPOPT. Our model relies on much of the underlying model structure and water system attribute inputs (topology of water system connections and their link capacities) used by Artes. 
 - Water service provider monthly water use data. Used to update monthly demands for service regions. https://www.waterboards.ca.gov/water_issues/programs/conservation_portal/conservation_reporting.html
 - Topology for added service providers sourced from Urban Water Management Plans. https://wuedata.water.ca.gov/uwmp_plans.asp?cmd=2020
 - Geospatial data for water service boundaries. California Drinking Water System Area Boundary Layer (SABL). https://www.arcgis.com/home/item.html?id=b2b64ea93a954b7caab0f0999f47e019
