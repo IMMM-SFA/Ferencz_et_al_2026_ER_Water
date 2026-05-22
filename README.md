@@ -47,11 +47,11 @@ _your input data references here_
 Ferencz, S., Yoon, J., & Vernon, C. (2026). Sensitivity Analysis of Drivers Water Shortage in the Los Angeles Region During Drought (Version v1) [Data set]. MSD-LIVE Data Repository. https://doi.org/10.57931/3363338
 
 ## Contributing modeling software
-| Model | Version | Repository Link | DOI |
-|-------|---------|-----------------|-----|
-| model 1 | version | link to code repository | link to DOI dataset |
-| model 2 | version | link to code repository | link to DOI dataset |
-| component 1 | version | link to code repository | link to DOI dataset |
+| Model | Version | Repository Link |
+|-------|---------|-----------------|
+| IPOPT | 3.11.1 | https://github.com/coin-or/Ipopt | 
+| Pyomo | version | link to code repository | 
+| SALIb | version | [link to code repository](https://github.com/SALib/SALib) | 
 
 ## Reproduce my experiment
 Fill in detailed info here or link to other documentation to thoroughly walkthrough how to use the contents of this repository to reproduce your experiment. Below is an example.
