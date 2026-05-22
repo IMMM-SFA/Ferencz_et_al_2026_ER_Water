@@ -50,8 +50,8 @@ Ferencz, S., Yoon, J., & Vernon, C. (2026). Sensitivity Analysis of Drivers Wate
 | Model | Version | Repository Link |
 |-------|---------|-----------------|
 | IPOPT | 3.11.1 | https://github.com/coin-or/Ipopt | 
-| Pyomo | version | link to code repository | 
-| SALIb | version | [link to code repository](https://github.com/SALib/SALib) | 
+| Pyomo | version | https://www.pyomo.org/ | 
+| SALIb | version | https://github.com/SALib/SALib | 
 
 ## Reproduce my experiment
 Fill in detailed info here or link to other documentation to thoroughly walkthrough how to use the contents of this repository to reproduce your experiment. Below is an example.
