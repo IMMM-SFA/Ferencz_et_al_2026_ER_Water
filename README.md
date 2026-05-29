@@ -1,6 +1,3 @@
-## [Check out the website for instructions](https://immm-sfa.github.io/metarepo)
-`metarepo` is short for meta-repository, a GitHub repository that contains instructions to reproduce results in a published work. This repo is a template for creating your own metarepo.
-
 # Ferencz-et_al_2026_ER_Water
 
 **Stress Testing Urban Water Security: A Sensitivity‑Based Evaluation of Drivers Water Shortage in the Los Angeles Region During Severe Drought**
