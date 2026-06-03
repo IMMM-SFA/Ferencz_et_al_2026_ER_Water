@@ -11,5 +11,5 @@ b) 430
 c) 364
 d) 551
 
-The values for the table in Figure 5 are from the correspinding row indexes in param_values_13312_sobol_HPC.csv.
+The values for the table in Figure 5 are from the corresponding row indexes in param_values_13312_sobol_HPC.csv.
 Multipliers were converted to volumes using the reference volumes in SALib_parameter_ranges.csv. 
