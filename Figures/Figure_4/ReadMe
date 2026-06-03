@@ -1,1 +1,2 @@
-
+The plotting script generates the 7 subplot figures in Figure 4. All files for plotting are in the Figure_4_files folder. 
+The data used to plot these figures is generated in Step 4 of the Workflow. 
