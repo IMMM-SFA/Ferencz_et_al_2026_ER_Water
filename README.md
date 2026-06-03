@@ -43,11 +43,9 @@ Ferencz, S., Yoon, J., & Vernon, C. (2026). Sensitivity Analysis of Drivers Wate
 | GeoPandas | 0.9.0 | https://geopandas.org/ | geospatial visualization |
 
 ## Reproduce my experiment
-Fill in detailed info here or link to other documentation to thoroughly walkthrough how to use the contents of this repository to reproduce your experiment. Below is an example.
-
 
 1. Install the software components required to conduct the experiment from [contributing modeling software](#contributing-modeling-software)
-2. Download and install the supporting [input data](#input-data) required to conduct the experiment
+2. Download the supporting [input data](#input-data) required to conduct the experiment
 3. Run the following scripts in the `workflow` directory to re-create this experiment:
 
 | Script Name | Description | How to Run |
