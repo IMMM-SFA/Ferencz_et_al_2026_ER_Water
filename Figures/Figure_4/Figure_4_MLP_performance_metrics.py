@@ -3,7 +3,7 @@ import pandas as pd
 import matplotlib.pyplot as plt 
 
 # Path to Figure 4 data 
-os.chdir("C:/Users/fere556/OneDrive - PNNL/Documents/Artes/Artes_paper/LA_Sensitivity_Analysis_Repo/GitHub/Figures/Figure_4/Figure_4_files")
+os.chdir("path to /Figure_4/Figure_4_files")
 
 # import provider results 
 cty_azu = pd.read_csv("CTY_AZU_MLP_Artes_vs_predicted_shortage.csv", index_col = 0)
