@@ -48,10 +48,12 @@ Ferencz, S., Yoon, J., & Vernon, C. (2026). Sensitivity Analysis of Drivers Wate
 2. The entire experiment workflow is documented in the Workflow directory. Each step builds on the outputs from the previous step. ReadMe files in each subdirectory of Workflow describe the inputs and outputs of each step.
 3. Code for analysis and visualization is provided the Figures directory. Large file size outputs used for analysis are stored in the associated [MSDLive repository](https://doi.org/10.57931/3363338) and need to be downloaded for analysis. 
 
-| Script Name | Description | How to Run |
-| --- | --- | --- |
-| `step_one.py` | Script to run the first part of my experiment | `python3 step_one.py -f /path/to/inputdata/file_one.csv` |
-| `step_two.py` | Script to run the second part of my experiment | `python3 step_two.py -o /path/to/my/outputdir` |
+| Workflow Step | Description | 
+| --- | --- | 
+| `Step_1_generate_Sobol_samples` | Generate scenario sample datasets used for the Sobol sensitivity analysis 
+| `Step_2_simulate_ensemble_of_drought_scenarios` | Model code and code to run model in parallel on HPC
+| `Step_3_process_simulation_outputs | Aggregates model results from individual ouputs into master output files
+| `Step_4_MLP_shortage_emulator` | Train MLP feed forward nueral network on simulated output data to predict worst year (or total 3-year) shortage given scenario parameter settings generated in Step 1
 
 ## Reproduce my figures
 Use the scripts found in the `figures` directory to reproduce the figures used in this publication.
