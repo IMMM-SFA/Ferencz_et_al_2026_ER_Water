@@ -6,9 +6,9 @@ Stephen B. Ferencz<sup>1\*</sup>, Chris R. Vernon Last<sup>1</sup>,  Erik Porse<
 
 <sup>1 </sup>Pacific Northwest National Laboratory, Richland, WA, USA.
 
-<sup>2 </sup> California Department of Water Resources 
+<sup>2 </sup> California Institute for Water Resources, University of California Agriculture and Natural Resources, Davis, CA 
 
-<sup>2 </sup> School of Civil and Environmental Engineering, Cornell University 
+<sup>2 </sup> School of Civil and Environmental Engineering, Cornell University, Ithica, NY 
 
 \* corresponding author:  stephen.ferencz@pnnl.gov
 
