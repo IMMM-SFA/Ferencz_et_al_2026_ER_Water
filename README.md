@@ -45,8 +45,8 @@ Ferencz, S., Yoon, J., & Vernon, C. (2026). Sensitivity Analysis of Drivers Wate
 ## Reproduce my experiment
 
 1. Install the software components required to conduct the experiment from [contributing modeling software](#contributing-modeling-software)
-2. Download the supporting [input data](#input-data) required to conduct the experiment
-3. Run the following scripts in the `workflow` directory to re-create this experiment:
+2. The entire experiment workflow is documented in the Workflow directory. Each step builds on the outputs from the previous step. ReadMe files in each subdirectory of Workflow describe the inputs and outputs of each step.
+3. Code for analysis and visualization is provided the Figures directory. Large file size outputs used for analysis are stored in the associated [MSDLive repository](https://doi.org/10.57931/3363338) and need to be downloaded for analysis. 
 
 | Script Name | Description | How to Run |
 | --- | --- | --- |
