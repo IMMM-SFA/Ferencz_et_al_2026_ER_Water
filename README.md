@@ -50,10 +50,10 @@ Ferencz, S., Yoon, J., & Vernon, C. (2026). Sensitivity Analysis of Drivers Wate
 
 | Workflow Step | Description | 
 | --- | --- | 
-| `Step_1_generate_Sobol_samples` | Generate scenario sample datasets used for the Sobol sensitivity analysis 
-| `Step_2_simulate_ensemble_of_drought_scenarios` | Model code and code to run model in parallel on HPC
-| `Step_3_process_simulation_outputs | Aggregates model results from individual ouputs into master output files
-| `Step_4_MLP_shortage_emulator` | Train MLP feed forward nueral network on simulated output data to predict worst year (or total 3-year) shortage given scenario parameter settings generated in Step 1
+| Step_1_generate_Sobol_samples | Generate scenario sample datasets used for the Sobol sensitivity analysis 
+| Step_2_simulate_ensemble_of_drought_scenarios | Model code and code to run model in parallel on HPC
+| Step_3_process_simulation_outputs | Aggregates model results from individual ouputs into master output files
+| Step_4_MLP_shortage_emulator | Train MLP feed forward nueral network on simulated output data to predict worst year (or total 3-year) shortage given scenario parameter settings generated in Step 1
 
 ## Reproduce my figures
 Use the scripts found in the `figures` directory to reproduce the figures used in this publication.
