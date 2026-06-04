@@ -2,7 +2,7 @@
 
 **Stress Testing Urban Water Security: A Sensitivity‑Based Evaluation of Drivers Water Shortage in the Los Angeles Region During Severe Drought**
 
-Stephen B. Ferencz<sup>1\*</sup>, Chris R. Vernon Last<sup>1</sup>,  Erik Porse<sup>2</sup>, Patrick Reed <sup>3</sup>, and Jim Yoon<sup>1, 
+Stephen B. Ferencz<sup>1\*</sup>, Chris R. Vernon Last<sup>1</sup>,  Erik Porse<sup>2</sup>, Patrick M. Reed <sup>3</sup>, and Jim Yoon<sup>1, 
 
 <sup>1 </sup>Pacific Northwest National Laboratory, Richland, WA, USA.
 
@@ -58,8 +58,13 @@ Ferencz, S., Yoon, J., & Vernon, C. (2026). Sensitivity Analysis of Drivers Wate
 ## Reproduce my figures
 Use the scripts found in the `figures` directory to reproduce the figures used in this publication.
 
-| Figure Number(s) | Script Name | Description | How to Run |
-| --- | --- | --- | --- |
-| 1, 2 | `generate_plot.py` | Description of figure, ie. "Plots the difference between our two scenarios" | `python3 generate_plot.py -input /path/to/inputs -output /path/to/outuptdir` |
-| 3 | `generate_figure.py` | Description of figure, ie. "Shows how the mean and peak differences are calculated" | `python3 generate_figure.py -input /path/to/inputs -output /path/to/outuptdir` |
+| Figure Number(s) | Script Name | Description |
+| --- | --- | --- |
+| 1 | no script, figure made in inkscape | map of study region and overview of water supply sources  
+| 2 | `Figure_2_Mapping_supply_sources_and_demands.py` | generates maps expressing supply source capacity as fraction of recent water demand 
+| 3 | `Figure_3_Artes_topology_plots.py | generates maps of node-link topology for different supply connection types
+| 4 | `Figure_4_MLP_performance_metrics.py` | boxplots of MLP emulator performance on the testing data (~2,600 scenarios) and plots 4 examples of simulated vs. emulated shortage
+| 5 | `Figure_5_shortage_maps.py | maps of water provider shortage fractions under four example scenarios 
+| 6, 7 | `Figures_6_and_7.py` | maps of ranked ST (and optionally S1) results and distributions of ST (and optionally S1) results 
+| 8, 9 | `Figure_8_and_9.py` | shortage frequency results for providers and wholesale regions under different thresholds of MWD import, Groundwater, and Intial Reservoir Storage ranges
 
